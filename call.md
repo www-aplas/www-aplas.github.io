@@ -1,0 +1,126 @@
+*********************************************************************
+# APLAS 2017 Call for Papers
+## 15th Asian Symposium on Programming Languages and Systems
+
+Suzhou, China, November 27-29, 2017
+
+https://www-aplas.github.io/
+*********************************************************************
+
+## Important Dates
+
+- Abstract deadline: Tuesday, June 13, 2017
+- Paper deadline: Friday, June 16, 2017
+- Author notification: Monday, August 14, 2017
+- Author response: Wednesday-Friday, July 26-28, 2017
+- Camera-ready deadline: Friday, September 1, 2017
+- Conference: Monday-Wednesday, November 27-29, 2017
+
+All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=APLAS+2017+Paper+Deadline&iso=20170616T235959&p1=3399).
+
+## About
+
+APLAS aims to stimulate programming language research by providing a forum for the presentation of latest results and the exchange of ideas in programming languages and systems. APLAS is based in Asia but is an international forum that serves the worldwide programming languages community.
+
+APLAS is sponsored by the [Asian Association for Foundation of Software (AAFS)](http://logic.cs.tsukuba.ac.jp/AAFS/), founded by Asian researchers in cooperation with many researchers from Europe and the USA. Past APLAS symposiums were successfully held in [Hanoi](https://soict.hust.edu.vn/~aplas2016/) ('16), [Pohang](http://pl.postech.ac.kr/aplas2015/) ('15), [Singapore](https://www.math.nagoya-u.ac.jp/~garrigue/APLAS2014/) ('14), [Melbourne](http://aplas2013.soic.indiana.edu/) ('13), [Kyoto](http://aplas12.kuis.kyoto-u.ac.jp/index.html) ('12), [Kenting](http://flolac.iis.sinica.edu.tw/aplas11/) ('11), [Shanghai](http://basics.sjtu.edu.cn/conference/aplas2010/) ('10), [Seoul](http://ropas.snu.ac.kr/aplas09/) ('09), [Bangalore](http://research.microsoft.com/en-us/um/people/grama/APLAS2008/) ('08), [Singapore](http://flint.cs.yale.edu/aplas2007/) ('07), [Sydney](http://www.kb.ecei.tohoku.ac.jp/aplas2006/) ('06), [Tsukuba](http://ropas.snu.ac.kr/2005/aplas/) ('05), [Taipei](http://www.comp.nus.edu.sg/~aplas/) ('04) and Beijing ('03) after three informal workshops. Proceedings of the past symposiums were published in Springer's LNCS.
+
+## Topics
+
+The symposium is devoted to foundational and practical issues broadly spanning the areas of programming languages and systems. Papers are solicited on topics such as
+
+- semantics, logics, foundational theory
+- design of languages, type systems and foundational calculi
+- domain-specific languages
+- compilers, interpreters, abstract machines
+- program derivation, synthesis and transformation
+- program analysis, verification, model-checking
+- logic, constraint, probabilistic and quantum programming
+- software security
+- concurrency and parallelism
+- tools and environments for programming and implementation
+
+Topics are not limited to those discussed in previous symposiums. Papers identifying future directions of programming and those addressing the rapid changes of the underlying computing platforms are especially welcome. Demonstration of systems and tools in the scope of APLAS are welcome to the System and Tool demonstrations category. Authors concerned about the appropriateness of a topic are welcome to consult with program chair prior to submission.
+
+## Submission
+
+We solicit submissions in two categories:
+
+- **Regular research papers** describing original scientific research results, including system development and case studies. Regular research papers *should not exceed 18 pages* in the Springer LNCS format, including bibliography and figures.  This category encompasses both theoretical and implementation (also known as system descriptions) papers.  In either case, submissions should clearly identify what has been accomplished and why it is significant.  Submissions will be judged on the basis of significance, relevance, correctness, originality, and clarity.  System descriptions papers should contain a link to a working system and will be judged on originality, usefulness, and design.  In case of lack of space, proofs, experimental results, or any information supporting the technical results of the paper could be provided as an appendix or a link to a web page, but reviewers are not obliged to read them.
+
+- **System and tool demonstrations** describing a demonstration of a tool or a system that support theory, program construction, reasoning, or program execution in the scope of APLAS. The main purpose of a tool paper is to display a completed, robust and well-documented tool--highlighting the overall functionality of the tool, the interfaces of the tool, interesting examples and applications of the tool, an assessment of the tool's strengths and weaknesses, and a summary of documentation/support available with the tool. Authors of tool demonstration proposals are expected to present a live demonstration of the tool at the conference. It is highly desirable that the tools are available on the web. System and Tool papers should not exceed 8 pages in the Springer LNCS format, including bibliography and figures. They may include an additional appendix of up to 6 extra pages giving the outline, screenshots, examples, etc. to indicate the content of the proposed live demo.
+
+Papers should be submitted electronically via the [submission web page]( https://easychair.org/conferences/?conf=aplas2017) using EasyChair. The acceptable format is PDF.
+
+Submitted papers must be unpublished and not submitted for publication elsewhere. Papers must be written in English. The proceedings will be published as a volume in Springer's LNCS series. Accepted papers must be presented at the conference.
+
+## Review Process
+
+*New for APLAS 2017*
+
+### Lightweight Double-Blind Reviewing Process
+
+APLAS 2017 will use a lightweight double-blind reviewing process. Following this process means that reviewers will not see the authors' names or affiliations as they initially review a paper. The authors' names will then be revealed to the reviewers only once their reviews have been submitted.
+
+To facilitate this process, submitted papers must adhere to the following:
+
+- **Author names and institutions must be omitted** and
+- References to the authors' own related work should be in the third person (e.g., not "We build on our previous work ..." but rather "We build on the work of ...").
+
+The purpose of this process is to help the reviewers come to an initial judgement about the paper without bias, not to make it impossible for them to discover the authors if they were to try.  Nothing should be done in the name of anonymity that weakens the submission, makes the job of reviewing the paper more difficult, or interferes with the process of disseminating new ideas. For example, important background references should *not* be omitted or anonymized, even if they are written by the same authors and share common ideas, techniques, or infrastructure.  Authors should feel free to disseminate their ideas or draft versions of their paper as they normally would.  For instance, authors may post drafts of their papers on the web or give talks on their research ideas.
+
+### Author Response Period
+
+During the author response period, authors will be able to read reviews and respond to them as appropriate.
+
+### Research Integrity
+
+The Program Committee reserves the right, up until the time of publication, to reverse a decision of paper acceptance. Reversal is possible if fatal flaws are discovered in the paper, or research integrity is found to have been seriously breached.
+
+## Organizers
+
+### General Chair
+
+[Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) | University of Science and Technology of China
+
+### Program Chair
+
+[Bor-Yuh Evan Chang](https://www.cs.colorado.edu/~bec/) | University of Colorado Boulder
+
+# Program Committee
+
+[Andreas Abel](http://www.cse.chalmers.se/~abela/) | Gothenburg University
+[Aws Albarghouthi](http://www.cs.wisc.edu/~aws/) | University of Wisconsin-Madison
+[Sam Blackshear](https://research.fb.com/people/blackshear-sam) | Facebook
+[Yu-Fang Chen](http://www.iis.sinica.edu.tw/~yfc) | Academia Sinica
+[Yuting Chen](http://stap.sjtu.edu.cn/index.php?title=Member%3Achenyt) | Shanghai Jiao Tong University
+[Stephen Chong](http://people.seas.harvard.edu/~chong) | Harvard University
+[Vijay D'Silva](https://research.google.com/pubs/VijayDSilva.html) | Google
+[Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/) | Purdue University
+[Rayna Dimitrova](http://www.mpi-sws.org/~rayna/) | MPI-SWS
+[Cezara Dragoi](http://di.ens.fr/~cezarad/) | INRIA, ENS, CNRS
+[William Harris](http://www.cc.gatech.edu/~wharris/) | Georgia Institute of Technology
+[Guoliang Jin](https://people.engr.ncsu.edu/gjin2/) | North Carolina State University
+[Akash Lal](http://research.microsoft.com/en-us/people/akashl/) | Microsoft Research, India
+[Vu Le](http://vuminhle.com/) | Microsoft
+[Akimasa Morihata](http://www.graco.c.u-tokyo.ac.jp/labs/morihata/) | University of Tokyo
+[Sergio Mover](http://www.sergiomover.eu/) | University of Colorado Boulder
+[Santosh Nagarakatte](http://www.cs.rutgers.edu/~santosh.nagarakatte) | Rutgers University
+[Hakjoo Oh](http://prl.korea.ac.kr) | Korea University
+[Bruno C. D. S. Oliveira](http://i.cs.hku.hk/~bruno/) | The University of Hong Kong
+[Xiaokang Qiu](https://engineering.purdue.edu/~xqiu/) | Purdue University
+[Arjun Radhakrishna](http://seas.upenn.edu/~arjunrad) | University of Pennsylvania
+[Aseem Rastogi](https://www.microsoft.com/en-us/research/people/aseemr/) | Microsoft Research
+[Sukyoung Ryu](http://plrg.kaist.ac.kr/ryu) | KAIST
+[Ilya Sergey](http://ilyasergey.net) | University College London
+[Makoto Tatsuta](http://research.nii.ac.jp/~tatsuta/index-e.html) | National Institute of Informatics
+[Tachio Terauchi](http://www.jaist.ac.jp/~terauchi/) | JAIST
+[Bow-Yaw Wang](http://www.iis.sinica.edu.tw/~bywang) | Academia Sinica
+[Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/) | Peking University
+[Kwangkeun Yi](http://ropas.snu.ac.kr/~kwang/) | Seoul National University
+[Danfeng Zhang](http://www.cse.psu.edu/~dbz5017/) | Pennsylvania State University
+[Xin Zhang](http://www.cc.gatech.edu/~xzhang36/) | Georgia institute of Technology
+[Kenny Zhu](http://www.cs.sjtu.edu.cn/~kzhu/) | Shanghai Jiao Tong University
+
+# Local Organization Chair
+
+[Ming Fu](http://staff.ustc.edu.cn/~fuming/) | University of Science and Technology of China
