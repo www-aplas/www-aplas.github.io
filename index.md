@@ -5,7 +5,7 @@
 <p class="header">November 27-29, 2017, Suzhou, China</p>
 
 
-APLAS aims to stimulate programming language research by providing a forum for the presentation of latest results and the exchange of ideas in programming languages and systems. APLAS is based in Asia, but is an international forum that serves the worldwide programming language community.
+APLAS aims to stimulate programming language research by providing a forum for the presentation of latest results and the exchange of ideas in programming languages and systems. APLAS is based in Asia but is an international forum that serves the worldwide programming languages community.
 
 APLAS is sponsored by the [Asian Association for Foundation of Software (AAFS)](http://logic.cs.tsukuba.ac.jp/AAFS/),
 founded by Asian researchers in cooperation with many researchers from Europe and the USA.
