@@ -29,12 +29,12 @@ APLAS is sponsored by the [Asian Association for Foundation of Software (AAFS)](
 The symposium is devoted to foundational and practical issues broadly spanning the areas of programming languages and systems. Papers are solicited on topics such as
 
 - semantics, logics, foundational theory
-- design of languages, type systems and foundational calculi
+- design of languages, type systems, and foundational calculi
 - domain-specific languages
 - compilers, interpreters, abstract machines
-- program derivation, synthesis and transformation
+- program derivation, synthesis, and transformation
 - program analysis, verification, model-checking
-- logic, constraint, probabilistic and quantum programming
+- logic, constraint, probabilistic, and quantum programming
 - software security
 - concurrency and parallelism
 - tools and environments for programming and implementation
