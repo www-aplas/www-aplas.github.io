@@ -1,5 +1,4 @@
 # APLAS 2017 Call for Papers
-## 15th Asian Symposium on Programming Languages and Systems
 
 <p class="header">November 27-29, 2017, Suzhou, China</p>
 
