@@ -1,7 +1,7 @@
 # APLAS 2017 Call for Papers
 ## 15th Asian Symposium on Programming Languages and Systems
 
-November 27-29, 2017, Suzhou China
+<p class="header">November 27-29, 2017, Suzhou, China</p>
 
 ## Important Dates
 
@@ -13,12 +13,6 @@ November 27-29, 2017, Suzhou China
 - Conference: Monday-Wednesday, November 27-29, 2017
 
 All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=APLAS+2017+Paper+Deadline&iso=20170616T235959&p1=3399).
-
-## About
-
-APLAS aims to stimulate programming language research by providing a forum for the presentation of latest results and the exchange of ideas in programming languages and systems. APLAS is based in Asia but is an international forum that serves the worldwide programming languages community.
-
-APLAS is sponsored by the [Asian Association for Foundation of Software (AAFS)](http://logic.cs.tsukuba.ac.jp/AAFS/), founded by Asian researchers in cooperation with many researchers from Europe and the USA. Past APLAS symposiums were successfully held in [Hanoi](https://soict.hust.edu.vn/~aplas2016/) ('16), [Pohang](http://pl.postech.ac.kr/aplas2015/) ('15), [Singapore](https://www.math.nagoya-u.ac.jp/~garrigue/APLAS2014/) ('14), [Melbourne](http://aplas2013.soic.indiana.edu/) ('13), [Kyoto](http://aplas12.kuis.kyoto-u.ac.jp/index.html) ('12), [Kenting](http://flolac.iis.sinica.edu.tw/aplas11/) ('11), [Shanghai](http://basics.sjtu.edu.cn/conference/aplas2010/) ('10), [Seoul](http://ropas.snu.ac.kr/aplas09/) ('09), [Bangalore](http://research.microsoft.com/en-us/um/people/grama/APLAS2008/) ('08), [Singapore](http://flint.cs.yale.edu/aplas2007/) ('07), [Sydney](http://www.kb.ecei.tohoku.ac.jp/aplas2006/) ('06), [Tsukuba](http://ropas.snu.ac.kr/2005/aplas/) ('05), [Taipei](http://www.comp.nus.edu.sg/~aplas/) ('04) and Beijing ('03) after three informal workshops. Proceedings of the past symposiums were published in Springer's LNCS.
 
 ## Topics
 
