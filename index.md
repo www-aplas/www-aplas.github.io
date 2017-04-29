@@ -31,12 +31,12 @@ after three informal workshops. Proceedings of the past symposiums were publishe
 The symposium is devoted to foundational and practical issues in programming languages and systems. Papers are solicited on topics such as
 
 - semantics, logics, foundational theory
-- design of languages, type systems and foundational calculi
+- design of languages, type systems, and foundational calculi
 - domain-specific languages
 - compilers, interpreters, abstract machines
-- program derivation, synthesis and transformation
+- program derivation, synthesis, and transformation
 - program analysis, verification, model-checking
-- logic, constraint, probabilistic and quantum programming
+- logic, constraint, probabilistic, and quantum programming
 - software security
 - concurrency and parallelism
 - tools and environments for programming and implementation
@@ -48,8 +48,11 @@ Topics are not limited to those discussed in previous symposiums. Papers identif
 - Abstract deadline: Tuesday, June 13, 2017
 - Paper deadline: Friday, June 16, 2017
 - Author notification: Monday, August 14, 2017
+- Author response: Wednesday-Friday, July 26-28, 2017
 - Camera-ready deadline: Friday, September 1, 2017
 - Conference: Monday-Wednesday, November 27-29, 2017
+
+All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=APLAS+2017+Paper+Deadline&iso=20170616T235959&p1=3399).
 
 # Invited Speakers
 
