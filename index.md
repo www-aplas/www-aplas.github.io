@@ -45,7 +45,7 @@ Topics are not limited to those discussed in previous symposiums. Papers identif
 
 # Important Dates
 
-- Abstract deadline: Tuesday, June 13, 2017
+- Abstract deadline: Tuesday, June 13, 2017 (firm)
 - Paper deadline: Monday, June 19, 2017
 - Author response: Wednesday-Friday, July 26-28, 2017
 - Author notification: Monday, August 14, 2017
