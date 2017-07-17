@@ -51,6 +51,6 @@ td:nth-child(2) {
 [Xin Zhang](http://www.cc.gatech.edu/~xzhang36/) | Georgia institute of Technology
 [Kenny Zhu](http://www.cs.sjtu.edu.cn/~kzhu/) | Shanghai Jiao Tong University
 
-# Local Organization Chair
+# Poster Chair
 
-[Ming Fu](http://staff.ustc.edu.cn/~fuming/) | University of Science and Technology of China
+[Yu Zhang](http://staff.ustc.edu.cn/~yuzhang/) | University of Science and Technology of China
