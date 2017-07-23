@@ -18,10 +18,10 @@ Poster contributions are sought in all areas of programming languages and system
 
 ## Submission
 
-Each presenter should submit a 1-2 page abstract in PDF via the submission web page, easychair (https://easychair.org/cfp/aplas2017poster) by 10 September. The abstract should include the title, author(s), affiliation(s) and summary of the work. We will announce the accepted presentations on 22 September. We hope to accommodate every presentation, but may restrict them (based on relevance and interest to the community) due to space constraints. 
+Each presenter should submit a 1-2 page abstract in PDF via the submission web page, easychair ( <https://easychair.org/cfp/aplas2017poster>) by 10 September. The abstract should include the title, author(s), affiliation(s) and summary of the work. We will announce the accepted presentations on 22 September. We hope to accommodate every presentation, but may restrict them (based on relevance and interest to the community) due to space constraints. 
 
 ## Important Dates
-- Submission due: 10 September 2017 (Sunday), 23:59 GMT
+- Submission due: 10 September 2017 (Sunday), 23:59 AoE
 - Author Notification: 22 September 2017 (Friday)
 - Conference: 27-29 November 2017 (Monday - Wednesday)
 
