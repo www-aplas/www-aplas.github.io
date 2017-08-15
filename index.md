@@ -56,4 +56,7 @@ All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.ht
 
 # Invited Speakers
 
-TBA
+- [Gilles Barthe](http://software.imdea.org/~gbarthe/index.html), IMDEA
+- [Ron Garcia](http://www.cs.ubc.ca/~rxg/), UBC
+- [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/#), Microsoft Research
+- [Naijun Zhan](http://lcs.ios.ac.cn/~znj/), Chinese Academy of Sciences
