@@ -10,7 +10,7 @@ nav:
   url: index.html
 - title: Organizers
   url: org.html
-- title: Call for papers
+- title: Call for Papers
   url: call.html
 - title: Program
   url: program.html
@@ -20,7 +20,7 @@ nav:
   url: workshop.html
 - title: Registration
   url: registration.html
-- title: Local
+- title: Local Info
   url: local.html
 - title: Travel
   url: travel.html
