@@ -20,7 +20,6 @@ You can make reservation yourself at [Ctrip](http://english.ctrip.com/hotels/suz
 I have also reserved some rooms at the hotel. If you find there are no more rooms online at Ctrip, please let me know (send me email at xinyu.feng@gmail.com) and I can make reservation for you.
 
 ## Hotels
-
 In addition to the conference hotel, there are some alternatives you may consider.
 
 ### Jinling Guanyuan International Hotel
@@ -36,6 +35,21 @@ Address: 168 Cuiwei Street, Industrial Park, Dushu Lake, Suzhou, 215123, China
 5 stops taking the bus 180. 
 
 Reservation at [Ctrip](http://english.ctrip.com/hotels/suzhou-hotel-detail-441546/jinling-guanyuan-international-hotel/?checkin=2017-11-26&checkout=2017-11-30&searchboxArg=t&hotelname=&display=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&optionId=467241&optionType=Hotel&optionName=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&lat=31.274776&lon=120.74044&city=14&label=XGCX7CeFA0WldlP7fTmIDg&salestype=0&page=1&position=3&minprice=450&mproom=2990291&mincurr=CNY&pnotax=&from_page=list&pctoken=469184d84997479e861eda51224554d1&abValue=M:33,160616_enh_lrmd:B;&link=title#ctm_ref=lst_n_1_3).
+
+### [Jingzhai Hotel](http://www.jingzhaihotel.com/)
+
+<img src="img/JingZhai.jpg" width="600">
+     
+This is a nice hotel and is closer to the conference venue than Jinling Guanyuan, but there are no rooms available on 26th. You can only [reserve rooms](http://english.ctrip.com/hotels/suzhou-hotel-detail-1458397/jingzhai-hotel/?checkin=2017-11-27&checkout=2017-11-30&searchboxArg=t&hotelname=&display=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&optionId=467241&optionType=Hotel&optionName=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&lat=31.274776&lon=120.74044&city=14&label=XGCX7CeFA0WldlP7fTmIDg&salestype=0&page=1&position=2&minprice=357&mproom=20266937&mincurr=CNY&pnotax=&from_page=list&pctoken=09ab225eacf44cec8ae2fc1144a1baf8&abValue=M:33,160616_enh_lrmd:B;&link=title#ctm_ref=lst_n_1_2) from 27th to 30th.
+
+Address: 158 Ren'ai Road, Industrial Park, Dushu Lake, Suzhou, 215123, China 
+<img src="img/JingZhai_Addr.jpg"
+     width="550">
+  
+[0.81km from the conference hotel](https://www.google.com/maps/dir/158+Ren+Ai+Lu,+Wuzhong+Qu,+Suzhou+Shi,+Jiangsu+Sheng,+China/99+Ren+Ai+Lu,+Wuzhong+Qu,+Suzhou+Shi,+Jiangsu+Sheng,+China/@31.2756682,120.7333051,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x35b3a867f180088d:0x879bee13135ac2fa!2m2!1d120.734453!2d31.276184!1m5!1m1!1s0x35b3a85b635a2687:0x1b8094ea0803d402!2m2!1d120.741078!2d31.275359). 2 stops taking the buses 178, 146 or 180.
+
+Reservation at [Ctrip](http://english.ctrip.com/hotels/suzhou-hotel-detail-1458397/jingzhai-hotel/?checkin=2017-11-27&checkout=2017-11-30&searchboxArg=t&hotelname=&display=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&optionId=467241&optionType=Hotel&optionName=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&lat=31.274776&lon=120.74044&city=14&label=XGCX7CeFA0WldlP7fTmIDg&salestype=0&page=1&position=2&minprice=357&mproom=20266937&mincurr=CNY&pnotax=&from_page=list&pctoken=09ab225eacf44cec8ae2fc1144a1baf8&abValue=M:33,160616_enh_lrmd:B;&link=title#ctm_ref=lst_n_1_2) (only available from 27th to 30th). 
+
 
 ### More options
 
