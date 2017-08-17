@@ -3,6 +3,9 @@
 ## Conference Venue
 
 The conference hotel is [Xi'an Jiaotong-Liverpool International Conference Center](https://www.google.com/maps/place/99+Ren+Ai+Lu,+Wuzhong+Qu,+Suzhou+Shi,+Jiangsu+Sheng,+China,+215123/@31.2749051,120.7392434,17z/data=!4m5!3m4!1s0x35b3a85b635a2687:0x1b8094ea0803d402!8m2!3d31.275359!4d120.741078).
+<img src="img/XJLiverpool2.jpg"
+     alt="Conference Hotel"
+     width="550">
 
 Address: 99 Ren'ai Road, Industrial Park, Dushu Lake, Suzhou, 215123, China.
 
