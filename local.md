@@ -24,6 +24,7 @@ In addition to the conference hotel, there are some alternatives you may conside
 
 ### Jinling Guanyuan International Hotel
 
+
 <img src="img/JLGY2.jpg"
      width="600">
      
@@ -54,3 +55,10 @@ Reservation at [Ctrip](http://english.ctrip.com/hotels/suzhou-hotel-detail-14583
 ### More options
 
 See [the list here](http://english.ctrip.com/hotels/list?city=14&checkin=11-26-2017&checkout=11-30-2017&hotelname=&searchboxArg=t&optionId=467241&optionType=Hotel&optionName=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&lat=31.274776&lon=120.74044&sort=dis0&display=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&markland=&label=XGCX7CeFA0WldlP7fTmIDg).
+
+There are some more economic hotels around the conference hotel at the Wenxing Square and the Hanlin Neighborhood Center within walking distance (see the map below). You cannot make reservation online. They are very close to the conference hotel and the rates are much lower. The problem is the staff do not speak English, and the hotels may not even have English names (maybe a bit difficult to locate). Let me know if you want me to help make reservation in one of those hotels.
+
+<img src="img/local2.jpg" width="600">
+
+There are also many restaurants, bakery stores, coffee shops and convenience stores at Wenxing Square and the Hanlin Neighborhood Center (see the map above). 
+
