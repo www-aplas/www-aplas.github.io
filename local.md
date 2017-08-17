@@ -22,3 +22,14 @@ I have also reserved some rooms at the hotel. If you find there are no more room
 ## Hotels
 
 In addition to the conference hotel, there are some alternatives you may consider.
+
+### Jinling Guanyuan International Hotel
+
+[1.65km from the conference hotel](https://www.google.com/maps/dir/99+Ren'ai+Road,+Suzhou,+Jiangsu,+China/168+Cui+Wei+Jie,+Wuzhong+Qu,+Suzhou+Shi,+Jiangsu+Sheng,+China,+215123/@31.2721374,120.7228131,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x35b3a85b635a2687:0x1b8094ea0803d402!2m2!1d120.741078!2d31.275359!1m5!1m1!1s0x35b3a871f9cac271:0x53fbbe71555fe77b!2m2!1d120.722863!2d31.273267). 
+5 stops taking the bus 180. 
+
+Reservation at [Ctrip](http://english.ctrip.com/hotels/suzhou-hotel-detail-441546/jinling-guanyuan-international-hotel/?checkin=2017-11-26&checkout=2017-11-30&searchboxArg=t&hotelname=&display=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&optionId=467241&optionType=Hotel&optionName=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&lat=31.274776&lon=120.74044&city=14&label=XGCX7CeFA0WldlP7fTmIDg&salestype=0&page=1&position=3&minprice=450&mproom=2990291&mincurr=CNY&pnotax=&from_page=list&pctoken=469184d84997479e861eda51224554d1&abValue=M:33,160616_enh_lrmd:B;&link=title#ctm_ref=lst_n_1_3).
+
+### More options
+
+See [the list here](http://english.ctrip.com/hotels/list?city=14&checkin=11-26-2017&checkout=11-30-2017&hotelname=&searchboxArg=t&optionId=467241&optionType=Hotel&optionName=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&lat=31.274776&lon=120.74044&sort=dis0&display=Xi%E2%80%99an%20Jiaotong-Liverpool%20International%20Conference%20Center&markland=&label=XGCX7CeFA0WldlP7fTmIDg).
