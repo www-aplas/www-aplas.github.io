@@ -25,6 +25,13 @@ In addition to the conference hotel, there are some alternatives you may conside
 
 ### Jinling Guanyuan International Hotel
 
+<img src="img/JLGY2.jpg"
+     width="600">
+     
+Address: 168 Cuiwei Street, Industrial Park, Dushu Lake, Suzhou, 215123, China
+<img src="img/JLGY_Addr.jpg"
+     width="400">
+
 [1.65km from the conference hotel](https://www.google.com/maps/dir/99+Ren'ai+Road,+Suzhou,+Jiangsu,+China/168+Cui+Wei+Jie,+Wuzhong+Qu,+Suzhou+Shi,+Jiangsu+Sheng,+China,+215123/@31.2721374,120.7228131,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x35b3a85b635a2687:0x1b8094ea0803d402!2m2!1d120.741078!2d31.275359!1m5!1m1!1s0x35b3a871f9cac271:0x53fbbe71555fe77b!2m2!1d120.722863!2d31.273267). 
 5 stops taking the bus 180. 
 
