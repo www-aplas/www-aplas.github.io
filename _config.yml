@@ -20,11 +20,9 @@ nav:
   url: workshop.html
 - title: Registration
   url: registration.html
-- title: Venue
-  url: venue.html
+- title: Local arrangements
+  url: local.html
 - title: Travel
   url: travel.html
-- title: Hotels
-  url: hotels.html
 
 
