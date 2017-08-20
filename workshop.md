@@ -13,9 +13,7 @@ No formal proceedings will be published. Abstracts and slides will be available 
 
 ## Submission Format and Deadlines
 
-For those invited speakers, please submit a one-page abstract to the EasyChair link below:
-
-https://easychair.org/conferences/?conf=aplas2017nier
+For those invited speakers, please submit a one-page abstract to the EasyChair link [Submission](https://easychair.org/conferences/?conf=aplas2017nier).
 
 - Abstract Submission Deadline	: 15th Sept 2017
 - Notification: 20th Sept 2017
