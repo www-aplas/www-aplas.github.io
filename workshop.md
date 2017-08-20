@@ -4,7 +4,7 @@
 
 ## Overview
 
-The goal of this half-day (possibly one-day) post-workshop is to provide an informal forum for generating interactions and collaborations on programming languages and systems. Strongly encouraged are proposals of new, speculative ideas, evaluations of new techniques in practical settings, and discussions of emerging results and important problems. Past two  workshops ([1st Workshop](http://pl.postech.ac.kr/aplas2015/aplas15-workshop), [2nd Workshop](http://loris-5.d2.comp.nus.edu.sg/aplas16-workshop/))
+The goal of this 1-day post-workshop is to provide an informal forum for generating interactions and collaborations on programming languages and systems. Strongly encouraged are proposals of new, speculative ideas, evaluations of new techniques in practical settings, and discussions of emerging results and important problems. Past two  workshops ([1st Workshop](http://pl.postech.ac.kr/aplas2015/aplas15-workshop), [2nd Workshop](http://loris-5.d2.comp.nus.edu.sg/aplas16-workshop/))
 were successfully held in 2015 and 2016.
 
 The workshop speakers are invitation-based. Each speaker will give a short talk, which is meant to be on latest research topics, and can include work that are not yet published or have been recently published.
