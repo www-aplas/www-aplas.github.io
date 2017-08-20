@@ -1,4 +1,4 @@
-## 3rd Workshop on New and Emerging Results in Programming Languages and Systems
+## 3rd Workshop on New Ideas and Emerging Results in Programming Languages and Systems
 
 <p class="header">November 30, 2017, Suzhou, China</p>
 
