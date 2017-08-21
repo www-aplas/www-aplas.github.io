@@ -7,7 +7,7 @@ More Information available soon.
 and
 [Shanghai Pudong International Airport (PVG)](https://www.travelchinaguide.com/cityguides/shanghai/pudong-airport.htm).
 
-Try to use Shanghai Hongqiao International Airport if possible, which is much closer and more more convenient than Shanghai Pudong International Airport (PVG). See the information about local transformation below.
+Try to use Shanghai Hongqiao International Airport if possible, which is much closer and more convenient than Shanghai Pudong International Airport (PVG). See the information about local transformation below.
 
 ## Local Transportation:
 
