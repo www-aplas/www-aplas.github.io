@@ -60,3 +60,8 @@ All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.ht
 - [Ron Garcia](http://www.cs.ubc.ca/~rxg/), UBC
 - [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/#), Microsoft Research
 - [Naijun Zhan](http://lcs.ios.ac.cn/~znj/), Chinese Academy of Sciences
+
+# Sponsors
+
+<a href="http://www.cs.tsukuba.ac.jp/~kam/AAFS/"><img src="img/aafs.jpg"><a>
+<a href="http://www.huawei.com/"><img src="img/HW_POS_RGB_Horizontal.jpg" width="200"><a>
