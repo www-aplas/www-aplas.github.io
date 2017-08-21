@@ -62,3 +62,6 @@ There are some more economic hotels around the conference hotel at the Wenxing S
 
 There are also many restaurants, bakery stores, coffee shops and convenience stores at Wenxing Square and the Hanlin Neighborhood Center (see the map above). 
 
+## More Information about Suzhou
+
+See [Suzhou Travel Guide](https://www.travelchinaguide.com/cityguides/suzhou.htm).
