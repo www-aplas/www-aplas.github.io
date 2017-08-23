@@ -1,4 +1,4 @@
-# Registration
+ # Registration
 
 ## Deadlines:
 - Early registration: Oct. 8, 2017
@@ -13,7 +13,7 @@
 
 Note: 
 - The conference registration covers lunches on 27-29, the reception on 27, the banquet dinner on 28th, 
-  and the excursion in the afternoon of 29th.
+  and the excursion in the afternoon of 29th. The workshop registration covers the lunch on 30th.
 - In order to register as a student, you should be a full-time student 
 and send a scanned copy of the student card or a proof of enrollment document to 
 xinyu.feng@gmail.com.
