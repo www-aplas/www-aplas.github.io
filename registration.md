@@ -12,12 +12,20 @@
 - <a href="https://www-aplas.github.io/workshop.html">Workshop</a> only: USD 200
 
 Note: 
+- The conference registration covers lunches on 27-29, the reception on 27, the banquet dinner on 28th, 
+  and the excursion in the afternoon of 29th.
 - In order to register as a student, you should be a full-time student 
 and send a scanned copy of the student card or a proof of enrollment document to 
 xinyu.feng@gmail.com.
 - For conference participants, the registration fee for the workshop is USD 50. 
   To be qualified for this rate, you need to register for both the conference and 
   the workshop, and pay the registration fees **together**.  
+
+## Excursion
+
+The conference will organize an excursion in the afternoon of 29th. 
+The **tentative** plan is to visit the [Humble Administrator's Garden (Zhuo Zheng Yuan)](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/humble_garden.htm) and
+the [Tiger Hill](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/tiger_hill.htm).
 
 ## Payment
 The payment webpage will be launched soon.
