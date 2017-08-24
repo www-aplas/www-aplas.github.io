@@ -2,7 +2,7 @@
 
 ## Deadlines:
 - Early registration: Oct. 8, 2017
-- Late registration: Nov. 15, 2017
+- Late registration: Nov. 15, 2017 (we accept onsite registration)
 
 ## Registration fees:
 - Early registration, conference only: regular USD 500, student USD 300
