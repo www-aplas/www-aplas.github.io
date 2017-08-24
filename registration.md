@@ -1,4 +1,4 @@
- # Registration
+# Registration
 
 ## Deadlines:
 - Early registration: Oct. 8, 2017
@@ -27,5 +27,9 @@ The conference will organize an excursion in the afternoon of 29th.
 The **tentative** plan is to visit the [Humble Administrator's Garden (Zhuo Zheng Yuan)](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/humble_garden.htm) and
 the [Tiger Hill](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/tiger_hill.htm).
 
-## Payment
+
+## Payment and Invoice
+Payment of registration fees is made to [AAFS](http://www.cs.tsukuba.ac.jp/~kam/AAFS/). Invoice will
+be issued by AAFS. Note there's NO Chinese Fapiao provided.
+
 The payment webpage will be launched soon.
