@@ -16,6 +16,8 @@ Ximeng Li, Heiko Mantel and Markus Tasch. Taming Message-passing Communication i
 
 Cristina Matache, [Victor B. F. Gomes](http://www.cl.cam.ac.uk/~vb358/) and [Dominic Mulligan](http://www.dominic-mulligan.co.uk). Programming and proving with classical types
 
+[Jieung Kim](http://www.cs.yale.edu/homes/jieung/), [Vilhelm Sjöberg](http://www.seas.upenn.edu/~vilhelm/), [Zhong Shao](http://www.cs.yale.edu/homes/shao) and [Ronghui Gu](http://www.cs.yale.edu/homes/gu_ronghui/homepage/). Safety and Liveness of MCS Lock—Layer by Layer
+
 Shaobo He and Zvonimir Rakamaric. Counterexample-Guided Bit-Precision Selection
 
 [Niccolò Veltri](http://cs.ioc.ee/~niccolo/) and [Tarmo Uustalu](http://cs.ioc.ee/~tarmo/). Partiality and container monads
