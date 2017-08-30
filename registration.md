@@ -11,9 +11,11 @@
 - Late registration, conference + <a href="https://www-aplas.github.io/workshop.html">workshop</a>: regular USD 650, student USD 450
 - <a href="https://www-aplas.github.io/workshop.html">Workshop</a> only: USD 200
 
-Note: 
-- The conference registration covers lunches on 27-29, the reception on 27, the banquet dinner on 28th, 
-  and the excursion in the afternoon of 29th. The workshop registration covers the lunch on 30th.
+Note:
+- The conference registration covers lunches on 27-29, the reception on 27,
+ the banquet dinner on 28th. The workshop registration covers the lunch on 30th.
+ Excursion on the afternoon of 29th is USD$20 per ticket to cover entrance fees.
+ Extra banquet ticket is USD$50 per ticket.
 - In order to register as a student, you should be a full-time student 
 and send a scanned copy of the student card or a proof of enrollment document to 
 xinyu.feng@gmail.com.
