@@ -34,4 +34,5 @@ the [Tiger Hill](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/tige
 Payment of registration fees is made to [AAFS](http://www.cs.tsukuba.ac.jp/~kam/AAFS/). Invoice will
 be issued by AAFS. Note there's NO Chinese Fapiao provided.
 
-The payment webpage will be launched soon.
+Please follow [THIS LINK](http://registration.ap-southeast-1.elasticbeanstalk.com/) for the online registration. 
+
