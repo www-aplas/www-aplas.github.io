@@ -26,3 +26,13 @@ Please remember that visas are needed for most non-Chinese nationals to enter Ch
 - Business Visa (F Visa): An official invitation letter is required to apply for a business visa. 
 
 Invitation letters will only be sent to registered users. 
+
+### Useful links:
+
+- [Unofficial overview of Chinese Visa requirements](https://www.travelchinaguide.com/embassy/visa.htm)
+- [Visa application procedure and form download in U.S.](http://www.china-embassy.org/eng/hzqz/zgqz/)
+- [Shanghai General Station of Immigration Inspection](http://www.sh-immigration.gov.cn/mainPageEn.aspx)
+
+## Contact:
+
+xinyu.feng@gmail.com
