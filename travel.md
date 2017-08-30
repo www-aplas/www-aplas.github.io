@@ -19,7 +19,7 @@ I'll provide more information soon. Also feel free to contact me if you have que
 
 ## Visa
 
-Please remember that visas are needed for most non-Chinese nationals to enter China (exceptions are passport holders from Singapore, Brunei, and Japan). The application should be made to the Chinese Embassy/Consulate in your country of residence, no later than four weeks before your departure (but please start to apply your visa as soon as possible). There are two types of visas: 
+Please remember that visas are needed for most non-Chinese nationals to enter China (see [possible exemptions](https://www.travelchinaguide.com/embassy/visa/intro2.htm)). The application should be made to the Chinese Embassy/Consulate in your country of residence, no later than four weeks before your departure (but please start to apply your visa as soon as possible). There are two types of visas: 
 
 - Tourist Visa (L Visa): A visa for tourism. You should check with the Chinese Embassy/Consulate in your country of residency to determine the local rules that apply for your tourist visa application. You may need to show evidence of bookings for your return flights and hotel. Alternatively, you may need to provide an official letter of invitation. 
 
