@@ -33,6 +33,9 @@ Invitation letters will only be sent to registered users.
 - [Visa application procedure and form download in U.S.](http://www.china-embassy.org/eng/hzqz/zgqz/)
 - [Shanghai General Station of Immigration Inspection](http://www.sh-immigration.gov.cn/mainPageEn.aspx)
 
+### The 144-Hour Visa-Free Transit Policy
+You may find [he policy](https://www.travelchinaguide.com/embassy/visa/free-transit-144hour.htm) useful if you'll leave China for a third country at the end of the conference. Note that Suzhou belongs to Jiangsu Province, therefore the policy may apply. Please double check the description and make sure you satisfy all the requirements (e.g., you need to be a passport holder from one of the listed countries). 
+
 ## Contact:
 
 xinyu.feng@gmail.com
