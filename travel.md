@@ -34,7 +34,9 @@ Invitation letters will only be sent to registered users.
 - [Shanghai General Station of Immigration Inspection](http://www.sh-immigration.gov.cn/mainPageEn.aspx)
 
 ### The 144-Hour Visa-Free Transit Policy
-You may find [the policy](https://www.travelchinaguide.com/embassy/visa/free-transit-144hour.htm) useful if you'll leave China for a third country at the end of the conference. Note that Suzhou belongs to Jiangsu Province, therefore the policy may apply. Please double check the description and make sure you satisfy all the requirements (e.g., you need to be a passport holder from one of the listed countries). 
+You may find [this policy](https://www.travelchinaguide.com/embassy/visa/free-transit-144hour.htm) useful if you'll leave China for a third country at the end of the conference. Note that Suzhou belongs to Jiangsu Province, therefore the policy may apply. Please double check the description and make sure you satisfy all the requirements (e.g., you need to be a passport holder from one of the listed countries). 
+
+Also see [this](144-Hour-Visa-Exemption.pdf) and [this](144-Hour-Visa-Exemption-QnA.pdf).
 
 ## Contact:
 
