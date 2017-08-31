@@ -26,8 +26,9 @@ xinyu.feng@gmail.com.
 ## Excursion
 
 The conference will organize an excursion in the afternoon of 29th. 
-The **tentative** plan is to visit the [Humble Administrator's Garden (Zhuo Zheng Yuan)](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/humble_garden.htm) and
-the [Tiger Hill](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/tiger_hill.htm).
+The **tentative** plan is to visit either the [Humble Administrator's Garden (Zhuo Zheng Yuan)](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/humble_garden.htm) or
+the [Tiger Hill](https://www.travelchinaguide.com/attraction/jiangsu/suzhou/tiger_hill.htm) 
+(one of the two places). We probably don't have time to visit both places in one afternoon.
 
 
 ## Payment and Invoice
