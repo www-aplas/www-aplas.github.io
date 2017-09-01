@@ -34,5 +34,6 @@ The **tentative** plan is to visit the [Humble Administrator's Garden (Zhuo Zhen
 Payment of registration fees is made to [AAFS](http://www.cs.tsukuba.ac.jp/~kam/AAFS/). Invoice will
 be issued by AAFS. Note there's NO Chinese Fapiao provided.
 
-Please follow [THIS LINK](http://registration.ap-southeast-1.elasticbeanstalk.com/) for the online registration. You will be redirected to an elasticbeanstalk.com subdomain.
+Please fill-up [THIS FORM](http://aplas-reg.org) for the online registration. The payment shall be
+made via PayPal, either using your PayPal account or paying directly with your debit or credit card on the PayPal page.
 
