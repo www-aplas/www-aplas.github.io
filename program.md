@@ -2,7 +2,13 @@
 
 [Tobias Nipkow](http://www.in.tum.de/~nipkow). Verified Root-Balanced Trees
 
+Daisuke Kimura and [Makoto Tatsuta](http://research.nii.ac.jp/~tatsuta/index-e.html). Decision Procedure for Entailment of Symbolic Heaps with Arrays
+
 [Ian J. Hayes](http://staff.itee.uq.edu.au/ianh/), Xi Wu and [Larissa Meinicke](http://www.uq.edu.au/uqresearchers/researcher/meinickela.html). Capabilities for Java: Secure Access to Resources
+
+[Yoonseok Ko](http://plrg.kaist.ac.kr/kys), [Xavier Rival](http://www.di.ens.fr/~rival/) and [Sukyoung Ryu](http://plrg.kaist.ac.kr/ryu). Weakly Sensitive Analysis for Unbounded Iteration over JavaScript Objects
+
+Qinxiang Cao, Santiago Cuellar and Andrew Appel. Putting order to the separation logic jungle
 
 [Oleg Kiselyov](http://okmij.org/ftp/) and Tatsuya Katsushima. Sound and Efficient Language-Integrated Query: Maintaining the ORDER
 
@@ -36,7 +42,7 @@ Hirofumi Nakamura, Kensuke Kojima, [Kohei Suenaga](http://www.fos.kuis.kyoto-u.a
 
 [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) and Bruno Barras. The Negligible and Yet Subtle Cost of Pattern Matching
 
-[Manjeet Dahiya](http://www.cse.iitd.ernet.in/~dahiya/) and [Sorav Bansal](http://www.cse.iitd.ernet.in/~sbansal/). Equivalence checking across modern black-box compiler optimizations is significantly harder than translation validation
+[Manjeet Dahiya](http://www.cse.iitd.ernet.in/~dahiya/) and [Sorav Bansal](http://www.cse.iitd.ernet.in/~sbansal/). Black-box equivalence checking across compiler optimizations
 
 [Aziem Chawdhary](http://www.chawdhary.co.uk) and [Andy King](http://www.cs.kent.ac.uk/people/staff/amk/). Compact Difference Bound Matrices
 
