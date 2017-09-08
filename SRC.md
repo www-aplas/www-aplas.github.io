@@ -26,3 +26,6 @@ of the submission.
 ## Prizes
 The winner of the competition will receive a prize of USD $200.
 Finalists will receive certificates.
+
+### Contact
+Poster chair: Yu Zhang (yuzhang AT ustc.edu.cn)
