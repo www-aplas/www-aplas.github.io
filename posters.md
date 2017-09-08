@@ -1,5 +1,7 @@
-# Call for Posters
+# Posters and Student Research Competition
 APLAS 2017 will include a poster session during the conference. The poster session aims to give students, researchers and professionals an opportunity to present technical materials to the research community, and to get responses from other researchers in the field.
+
+<span style="color:red;">**New:** Students submitting posters can participate in the [Student Research Competition (SRC)](SRC.html).</span>
 
 **Please note that the posters will not be part of the conference proceedings.**
 
