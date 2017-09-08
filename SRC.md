@@ -1,4 +1,4 @@
-# APLAS 2017 Student Research Competition
+# Student Research Competition
 
 ## Overview
 This year APLAS will host a Student Research Competition where students 
