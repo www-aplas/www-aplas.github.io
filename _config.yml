@@ -4,8 +4,6 @@ description2: November 27-29, 2017, Suzhou, China
 theme: jekyll-theme-dinky
 
 nav:
-- title: Submit
-  url: https://easychair.org/conferences/?conf=aplas2017
 - title: Home
   url: index.html
 - title: Organizers
@@ -14,6 +12,8 @@ nav:
   url: call.html
 - title: Program
   url: program.html
+- title: Student Res. Comp.
+  url: SRC.html
 - title: Call for Posters
   url: posters.html
 - title: Workshop
