@@ -1,4 +1,5 @@
 ### NEWS
+- <span style="color:red;">&lt;09/23/2017&gt;</span> <br> [Accepted posters](accepted-posters.html) posted.
 - <span style="color:red;">&lt;09/08/2017&gt;</span> <br> Deadline for [poster](posters.html) (and [SRC](SRC.html)) submission extended.
 - <span style="color:red;">&lt;09/08/2017&gt;</span> <br> This year we'll have a [Student Research Competition](SRC.html).
 - <span style="color:red;">&lt;08/31/2017&gt;</span> <br> [Registration](registration.html) is open.
