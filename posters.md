@@ -5,6 +5,8 @@ APLAS 2017 will include a poster session during the conference. The poster sessi
 
 **Please note that the posters will not be part of the conference proceedings.**
 
+## [New: List of accepted posters](accepted-posters.html).
+
 ## Scope
 
 Poster contributions are sought in all areas of programming languages and systems, including the following topics:
