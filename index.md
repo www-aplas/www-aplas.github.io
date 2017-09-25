@@ -68,5 +68,6 @@ All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.ht
 # Sponsors
 
 <a href="http://www.cs.tsukuba.ac.jp/~kam/AAFS/"><img src="img/aafs.jpg"></a> &nbsp; &nbsp;
+<a href="https://leancloud.cn/"><img src="img/LeanCloud-logo-2.png" width="200"></a> &nbsp; &nbsp;
 <a href="http://www.huawei.com/"><img src="img/HW_POS_RGB_Horizontal.jpg" width="200"></a> &nbsp; &nbsp;
 <a href="http://www.springer.com"><img src="img/Springer.svg.png" width="200"></a>
