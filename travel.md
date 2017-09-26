@@ -27,7 +27,7 @@ There are two types of visas (presumably Tourist Visa is simpler to apply):
 
 - Business Visa (F Visa): An official invitation letter is required to apply for a business visa. 
 
-Invitation letters will only be sent to registered users. 
+Invitation letters will only be sent to registered participants. Please fill [this application form](https://goo.gl/forms/v4WOsPNZ6J9aH8K33) to provide the required information.
 
 ### Useful links:
 
