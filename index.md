@@ -56,10 +56,10 @@ All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.ht
 
 # Invited Speakers
 
-- [Gilles Barthe](http://software.imdea.org/~gbarthe/index.html), IMDEA
-- [Ron Garcia](http://www.cs.ubc.ca/~rxg/), UBC
-- [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/#), Microsoft Research
-- [Naijun Zhan](http://lcs.ios.ac.cn/~znj/), Chinese Academy of Sciences
+- [Gilles Barthe](http://software.imdea.org/~gbarthe/index.html), IMDEA. Relational Verification of Higher-Order Probabilistic Programs.
+- [Ron Garcia](http://www.cs.ubc.ca/~rxg/), UBC. 	Gradual Enforcement of Program Invariants.
+- [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/#), Microsoft Research. Programming by Examples: PL meets ML.
+- [Naijun Zhan](http://lcs.ios.ac.cn/~znj/), Chinese Academy of Sciences. Synthesizing SystemC Code from Delay Hybrid CSP.
 
 # Sponsors
 
