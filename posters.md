@@ -1,7 +1,11 @@
-# Call for Posters
+# Posters and Student Research Competition
 APLAS 2017 will include a poster session during the conference. The poster session aims to give students, researchers and professionals an opportunity to present technical materials to the research community, and to get responses from other researchers in the field.
 
+<span style="color:red;">**New:** This year there'll be a [Student Research Competition (SRC)](SRC.html) associated with the Poster Session.</span>
+
 **Please note that the posters will not be part of the conference proceedings.**
+
+## [New: List of accepted posters](accepted-posters.html).
 
 ## Scope
 
@@ -27,7 +31,7 @@ You can use ACM template to format your submission, and the ACM template link is
 We will announce the accepted presentations on 22 September. We hope to accommodate every presentation, but may restrict them (based on relevance and interest to the community) due to space constraints. 
 
 ## Important Dates
-- Submission due: 15 September 2017 (Sunday), 23:59 AoE
+- Submission due: <S>15 September 2017 (Sunday), 23:59 AoE</S> 20 September 2017 (Wednesday), 23:59 AoE
 - Author Notification: 22 September 2017 (Friday)
 - Conference: 27-29 November 2017 (Monday - Wednesday)
 

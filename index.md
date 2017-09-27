@@ -26,6 +26,10 @@ Past APLAS symposiums were successfully held in
 and Beijing (’03)
 after three informal workshops. Proceedings of the past symposiums were published in Springer's LNCS.
 
+
+<span style="color:red;">**New:** This year there'll be a [Student Research Competition (SRC)](SRC.html) associated with the [Poster Session](posters.html).</span>
+
+
 # Topics
 
 The symposium is devoted to foundational and practical issues in programming languages and systems. Papers are solicited on topics such as
@@ -64,5 +68,6 @@ All deadline times are [AoE](https://www.timeanddate.com/worldclock/fixedtime.ht
 # Sponsors
 
 <a href="http://www.cs.tsukuba.ac.jp/~kam/AAFS/"><img src="img/aafs.jpg"></a> &nbsp; &nbsp;
+<a href="https://leancloud.cn/"><img src="img/LeanCloud-logo-2.png" width="200"></a> &nbsp; &nbsp;
 <a href="http://www.huawei.com/"><img src="img/HW_POS_RGB_Horizontal.jpg" width="200"></a> &nbsp; &nbsp;
 <a href="http://www.springer.com"><img src="img/Springer.svg.png" width="200"></a>

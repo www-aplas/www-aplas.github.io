@@ -4,6 +4,9 @@
 - Early registration: Oct. 8, 2017
 - Late registration: Nov. 15, 2017 (we accept onsite registration)
 
+**We urge participants to register and start the [visa application](travel.html) as soon as possible, 
+  to cope with unexpected delays (for visa application).**
+
 ## Registration fees:
 - Early registration, conference only: regular USD 500, student USD 300
 - Late registration, conference only: regular USD 600, student USD 400
