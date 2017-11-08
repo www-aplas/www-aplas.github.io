@@ -50,12 +50,6 @@ to find wifi), you need nearly always a working mobile phone in order to use it.
 will have to register your number when you log in, and the wifi operator will then
 send you a password token via SMS. The problem is that chances are great your
 mobile phone will not work in China. Therefore do not assume you can check information on the Internet while travelling.
-<br>
-At the conference center there will be wifi (named **UNKNOWN** with the super-secure password: **UNKNOWN**).
-But again, do not assume you can download that last episode
-of the Daily Show: while bandwidth will generally be enough for reading email, be
-prepared for an uninterrupted stay in China, free from any disturbance coming from
-online demands.
 
 * **Google etc**
 There are two Great Walls in China: one prevents you from accessing
