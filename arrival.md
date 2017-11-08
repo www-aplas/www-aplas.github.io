@@ -45,7 +45,7 @@ to find wifi), you probably always need a Chinese mobile phone number in order t
 will have to register your phone number when you log in, and the wifi operator will then
 send you a password token via SMS. The problem is that chances are great your
 mobile phone will not work in China. Therefore do not assume you can check information on the Internet while travelling.
-<br>
+
 At the hotel and the conference center there will be wifi. But again, do not assume you can download that last episode of the Daily Show: while bandwidth will generally be enough for reading email, be prepared for an uninterrupted stay in China, free from any disturbance coming from online demands. 
 
 * **Google etc**
@@ -62,14 +62,14 @@ Rather, you have to be prepared for the scenario that nobody
 speaks any English at all and all signs around you are written in characters that do
 not give you the slightest idea what they are about. This means it's always helpful
 to prepare your travelling beforehand and ask us for help if you are unsure!
-<br>
+
 You may want to carry 
 a printed copy of the map where the conference center is located ([the map of the conference center](photo/map1.pdf)). When
 you want to go to the conference center by taxi, you need to show the map to the driver, since
 telling the name of the conference center will most probably not be understood and also the driver most
 likely does not know where it is located. Showing the map will also guard against
 the possible situation where a taxi driver cannot actually read the address. 
-<br>
+
 For travelling inside Suzhou, taxis can be hailed at the street curb. You need to pay
 them in cash. They are always metered. Try to avoid taxis of black color. The cars
 are of more luxury models and they are about 1.5 times more expensive than regular ones.
