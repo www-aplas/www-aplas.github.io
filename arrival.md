@@ -3,13 +3,22 @@
 
 Welcome in China. You made it to the destination airport. Unless your are one of the
 very few foreigners who can speak and read Chinese, potentially the most challenging
-part of your journey is about to begin. Below we explain how to get to the conference center in
-Suzhou from Shanghai Hongqiao Airport and from Shanghai Pudong Airport. If you arrive
+part of your journey is about to begin.
+Below we will introduce:
+
+- [the precautions in china](#precaution)
+
+- [from Shanghai Hongqiao Airport, how to get to the conference center in Suzhou](#Hongqiao)
+
+- [from Shanghai Pudong International Airport, how to get to the conference center](#Pudong)
+
+If you arrive
 from somewhere else and need help, please let us know. If you need help while travelling,
-the local organisers can be reached on their mobile:
+the local organiser can be reached on the mobile:
 
 <p align="center"> Zhaohui:  (+86) 13646206084</p>
 
+## <h2 id="precaution"> Precautions </h2>
 China is generally a safe country for travelling, if the usual precautions are taken. We
 assume you have never been in China before, therefore let us still start with some general
 points.
@@ -50,6 +59,8 @@ to find wifi), you need nearly always a working mobile phone in order to use it.
 will have to register your number when you log in, and the wifi operator will then
 send you a password token via SMS. The problem is that chances are great your
 mobile phone will not work in China. Therefore do not assume you can check information on the Internet while travelling.
+<br>
+At the hotel and the conference center there will be wifi. But again, do not assume you can download that last episode of the Daily Show: while bandwidth will generally be enough for reading email, be prepared for an uninterrupted stay in China, free from any disturbance coming from online demands. 
 
 * **Google etc**
 There are two Great Walls in China: one prevents you from accessing
@@ -67,9 +78,9 @@ not give you the slightest idea what they are about. This means you always have 
 prepare your travelling beforehand and ask us for help if you are unsure!
 <br>
 One part of every trip preparation, including your arrival, should be to carry with you
-a printed copy of the map where the conference center is located (see Fig. 2.1). When
-you want to go to the hotel by taxi, you need to show the map to the driver, since
-telling the name of the conference ceter will most probably not be understood and also the driver most
+a printed copy of the map where the conference center is located ([the map of the conference center](photo/map1.pdf)). When
+you want to go to the conference center by taxi, you need to show the map to the driver, since
+telling the name of the conference center will most probably not be understood and also the driver most
 likely does not know where it is located. Showing the map will also guard against
 the possible situation where a taxi driver cannot actually read the address. Take the
 map always with you: it might be your life-line for avoiding unpleasant situations.
@@ -92,7 +103,7 @@ is accepted more widely, but also not everywhere). Pretty much the only places
 where cash can be obtained with a foreign credit card are ATMs in Chinese banks.
 There are several not far from the conference center.
 
-## Travel from Shanghai Hongqiao Airport to the Conference Center
+## <h2 id="Hongqiao"> Travel from Shanghai Hongqiao Airport to the Conference Center </h2>
 In short, you have to get to (1) Hongqiao railway station and then from there to (2) Suzhou railway station. From Suzhou railway station it is best to take a taxi. Overall this will take approximately 2h of travelling to the conference center. 
 
 ### From Hongqiao Airport to Hongqiao Railway Station
@@ -108,7 +119,7 @@ In short, you have to get to (1) Hongqiao railway station and then from there to
   <br> <img src="photo/t1-subway.jpg" alt="T1 Subway" width="500"> <br>
   Then you should buy a ticket for Hongqiao Railway Station, which costs 3 RMB. Metro Line 10 runs from 6:18 to 23:22 from Sunday to Thursday, and from 6:18 to 00:42(the next day) from Friday to Saturday. 
 
-### Getting a Ticket for the Metro in Shanghai
+### <h2 id="metro"> Getting a Ticket for the Metro in Shanghai </h2>
 Like most Chinese metro stations, entering the metro station at the airport means you have to go through a brief security check where your luggage will be X-rayed. After the check you will see ticket machines
   <br>
   <table><tr>
@@ -121,7 +132,7 @@ Like most Chinese metro stations, entering the metro station at the airport mean
   <br> <img src="photo/machine5.jpg" alt="Machine" width="500"> <br>
   You can learn more from [this video](https://www.youtube.com/watch?v=-ISy1ednyoc) in youtube. 
 
-### From Hongqiao Railway Station to Suzhou Railway Station via High-Speed Train
+### <h2 id="train"> From Hongqiao Railway Station to Suzhou Railway Station via High-Speed Train </h2>
 As background, train stations above the village level in China are organised more
 like an airport, than the more sleepy train station you might be familiar with. Therefore,
 you first have to go through a security gate where luggage is checked and you padded by
@@ -135,7 +146,9 @@ Next you need to buy a train ticket. If you exit from metro station, following s
   <td><img src="photo/tc-2.jpg" width="500"></td>
   </tr></table>
   <br>
-  Unlike the metro, ticket machines for trains are of no use for you, because you would need Chinese ID-card in order to buy anything with them. You have to queue on the usually longer queue and buy a ticket for Suzhou Railway station. You will need to show your passport in order to buy a ticket. The ticket will cost around 39.5 RMB and looks like this:
+  Unlike the metro, ticket machines for trains are of no use for you, because you would need Chinese ID-card in order to buy anything with them. You have to queue on the usually longer queue and buy a ticket for Suzhou Railway station.
+  You need to show the [note(please print out)](photo/buy-ticket1.pdf), your passport and money to the ticket officer to get a ticket. 
+  The ticket will cost around 39.5 RMB and looks like this:
   <br> <img src="photo/train-ticket.png" alt="Train Ticket" width="500"> <br>
   The G-Number (G7118 above) stands for the train number, which identifies the train also on the large displays at the hall. Below that number is the date and departure time, in this case 2017-11-04 and departure time 17:18. To the right is the coach number (04) and seat number (03B). Just below from that is the sign that the ticket is for second class (二). For the short duration of the trip there is no real need to buy a ticket for first class. On the top right-hand corner is the platform written(25).
   <br>
@@ -154,7 +167,7 @@ Next you need to buy a train ticket. If you exit from metro station, following s
   
   The journey to Suzhou Railway Station takes around 30m. Make sure your arrival station announced by the train is exactly "Suzhou Railway Station", not "Suzhou North Railway Station" or other. Trains from Hongqiao to Suzhou work from 6:09-21:42 at nearly 30m intervals. 
 
-### Suzhou Railway Station to the Conference Center
+### <h2 id="taxi"> Suzhou Railway Station to the Conference Center </h2>
 After checking your ticket to exit the train station, you will find a sign for "Taxi(North)" as shown below:
 <br> <img src="photo/taxi-north.jpg" alt="Taxi North" width="500"> <br>
 Following signs and you will see a KFC(Kentucky Fried Chicken) on your right hand side. Beside the KFC, there is the taxi stand(the left picture as below). When you enter it, you will see many taxies waiting on the road(the right picture). 
@@ -185,12 +198,12 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
 
   The journey will cost you around 60 RMB and takes about 45 minutes. The taxi needs to be paid in cash. Make sure the taxi driver switches on the meter once you left the taxi stand!
 
-## Travel from Pudong International Airport to the Conference Center
+## <h2 id="Pudong"> Travel from Pudong International Airport to the Conference Center </h2>
 There are two options to travel from this airport to the conference center:
 
 * The first option is to take a long distance bus to Suzhou Railway Station directly. We recommend this option. 
 
-* A bit more complex is going first by metro Line 2 to Hongqiao Railway Station, which is the last but one station of the line. The metro will operate between 6:00 and 22:00. At Guanglan Road station however, you need change to the train at the opposite side, for the metro line from Pudong International Airport to Hongqiao Railway Station is split to two disjoint part. The Guanglan Road is the split point. There is detailed explanation in English from the broadcast, so don't worry too much. To complicate more, the metro may end at Songhong Road, for the shorter line can enhance the throughput of the metro. On this situation, you must wait for the next metro train at the same side. The metro will cost you 8 RMB and take about 2 hours. After you arrive at Hongqiao Railway Station, remain part of the journey is same as from Hongqiao airport. 
+* A bit more complex is going first by metro Line 2 to Hongqiao Railway Station, which is the last but one station of the line. If you don't know how to buy a ticket of metro, please read [this chapter](#metro) first. The metro will operate between 6:00 and 22:00. At Guanglan Road station however, you need change to the train at the opposite side, for the metro line from Pudong International Airport to Hongqiao Railway Station is split to two disjoint part. The Guanglan Road is the split point. There is detailed explanation in English from the broadcast, so don't worry too much. To complicate more, the metro may end at Songhong Road, for the shorter line can enhance the throughput of the metro. On this situation, you must wait for the next metro train at the same side. The metro will cost you 8 RMB and take about 2 hours. After you arrive at Hongqiao Railway Station, remain part of the journey is same as from Hongqiao airport and you can refer to [that chapter](#train).
 
 ### From Pudong International Airport to the Conference Center
 Following the signs for "Long Distance Bus", you can find the bus stop, which may take you 10min by walk. The signs are shown as below:
@@ -202,7 +215,8 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   <br>
   Next you need to buy a bus ticket. There are ticket counters, see below.
   <br> <img src="photo/ld3.jpg" alt="Ready" width="500"> <br>
-  You will also need to show your passport to buy a ticket. The ticket will cost around 84 RMB and looks like this:
+  You need to show the [note(please print out)](photo/buy-ticket2.pdf), your passport and money to the ticket officer to get a ticket.
+  The ticket will cost around 84 RMB and looks like this:
   <br> <img src="photo/bus-ticket.jpg" alt="Ready" width="500"> <br>
   This is not a ticket from Pudong to Suzhou, but the layout of tickets is the same. The number(A00064 above) below the arrow stands for the bus number. Right below the number is your seat number(9) and the number on the right up corner(18) is the platform number, denoting where to wait for the bus. After buying the ticket, you can get into the waiting room through a security gate (as below), and wait for your bus according to the platform number on the ticket. 
   <br> <img src="photo/ld4.jpg" alt="Ready" width="500"> <br>
@@ -214,4 +228,4 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   <td><img src="photo/bus3.jpg" width="500"></td>
   </tr></table>
   <br>
-  The B1 floor is the place same as you arrive at the station by train. So following the signs for "Taxi(North)", you will find the same taxi stand described in the previous chapter. According to the information in that chapter, you will be driven to the conference center. 
+  The B1 floor is the place same as you arrive at the station by train. So following the signs for "Taxi(North)", you will find the same taxi stand described in the previous chapter. According to the information in [that chapter](#taxi), you will be driven to the conference center. 
