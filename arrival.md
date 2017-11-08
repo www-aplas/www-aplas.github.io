@@ -177,8 +177,8 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
   <td><img src="photo/taxi2.jpg" width="500"></td>
   </tr></table>
   <br>
-  Get on an empty taxi, and then show the [map togeher with notes](photo/map1.pdf)(please print it out) for the driver, he will drive you to the conference center.
-  If you need to go to the hotel instead of the conference center, then the below table is useful for you:
+  Get on an empty taxi, and then show the [map togeher with notes](photo/map1.pdf)(please print it out) for the driver, he will drive you to the conference center. Don't forget to take the receipt when you arrive. 
+  If you need to go to the hotel instead of the conference center, then below table is useful for you:
   <style>
   table, th, td {
   border: 1px solid black;
