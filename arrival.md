@@ -29,34 +29,20 @@ It is warm in the day time and may be a little cold at night. So do not forget a
 It may also rain. 
 
 * **Bottled Water**
-Whereas in many places it is safe to drink water from taps, do not
-take chances and drink only bottled water! During the conference we will provide
-bottled water. In other places you have to buy bottles yourself. Remember, Chinese
-are famous for nibbling on a bottle of hot tea the whole day, even in sweltering
-temperatures. There is a reason for this.
+It's unsafe to drink tap water directly in China. You should either use the kettle in your hotel
+room to boil tap water first, or drink only bottled water.
 
 * **Traffic**
-Do not even think of renting a car in China. Hence, while in China, you
-probably will be mostly going around on foot. Be careful though: You might come
-from a region where traffic rules are organised so that pedestrians are mostly treated
-with respect by all other road users, or even have an "elevated status" because they
-are considered the "weakest". Traffic in China is, in contrast, organised more, shall
-we say, according to a Darwinian model: Under no circumstance assume a car (or
-even a bicycle or one of the many noiseless electric motor bikes) will stop for you. As
-pedestrian, you have to take care of everybody else.
-<br>
-Therefore, whenever possible
-cross roads at traffic lights and even if the light shows green for you, look out for
-cars that pay no attention to this fact. Also, zebra crossings do not, I repeat, do not
-have any special meaning in China for the road users higher up the traffic ladder
-(i.e. bicycles and above). Even if it sounds too funny, take our word and heed this
-advice...it might increase your life-expectancy.
+In China, cars do not always yield to pedestrians, so you have to be very careful when cross the street.
+Also there are bicycles and motorcycles which do not stop at the red traffic light, which means you have
+to watch out even if you cross the street when the traffic light is green.
+
 
 * **Free Public Wifi/Mobile Phones**
 While free public wifi is nowadays pretty ubiquitous
 in big cities in China (Starbucks, Costas, McDonalds are obvious places where
-to find wifi), you need nearly always a working mobile phone in order to use it. You
-will have to register your number when you log in, and the wifi operator will then
+to find wifi), you probably always need a Chinese mobile phone number in order to use it. You
+will have to register your phone number when you log in, and the wifi operator will then
 send you a password token via SMS. The problem is that chances are great your
 mobile phone will not work in China. Therefore do not assume you can check information on the Internet while travelling.
 <br>
@@ -72,26 +58,25 @@ Facetime, in contrast, work fine. Dropbox, no.
 * **Map of Hotel/Taxis**
 While more and more young Chinese are exposed to English,
 you cannot rely on anyone of the general public speaking more than a few words.
-Rather, you have to always calculate with the very, very likely scenario that nobody
+Rather, you have to be prepared for the scenario that nobody
 speaks any English at all and all signs around you are written in characters that do
-not give you the slightest idea what they are about. This means you always have to
-prepare your travelling beforehand and ask us for help if you are unsure!
+not give you the slightest idea what they are about. This means it's always helpful
+to prepare your travelling beforehand and ask us for help if you are unsure!
 <br>
-One part of every trip preparation, including your arrival, should be to carry with you
+You may want to carry 
 a printed copy of the map where the conference center is located ([the map of the conference center](photo/map1.pdf)). When
 you want to go to the conference center by taxi, you need to show the map to the driver, since
 telling the name of the conference center will most probably not be understood and also the driver most
 likely does not know where it is located. Showing the map will also guard against
-the possible situation where a taxi driver cannot actually read the address. Take the
-map always with you: it might be your life-line for avoiding unpleasant situations.
+the possible situation where a taxi driver cannot actually read the address. 
+<br>
 For travelling inside Suzhou, taxis can be hailed at the street curb. You need to pay
-them in cash. They are always metered.
+them in cash. They are always metered. Try to avoid taxis of black color. The cars
+are of more luxury models and they are about 1.5 times more expensive than regular ones.
 
 * **Tips in Restaurants, Taxi**
-One easy aspect of travelling in China are matters to do
-with tipping: no tips are expected when paying at a restaurant, for a taxi journey
-etc. The good thing about this is you are treated as a nice customer, if you are a nice
-customer (meaning you treat staff with respect).
+No tips are needed when paying at a restaurant, or for a taxi journey
+etc. 
 
 * **Cash/Credit Cards**
 While foreign credit cards are accepted in a number of places,
