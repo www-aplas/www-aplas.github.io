@@ -197,7 +197,7 @@ Note that Line 2 is split to two parts. You have to get off at the Guanglan Road
 
 * Taxi: you can take a taxi from PVG directly to the conference hotel, which can be expensive and may cost you around CNY 600 (around USD $100). Note that not every taxi driver is willing to make this long-distance trip (although many of them are happy to do so). Also in this case they may not use the meter to calculate the price. Instead, you have to negotiate the price with them before leaving.
 <br>
-You can also consider taking a taxi from PVG to the Hongquao Train Station, which is around 50km and will cost you around CNY150-200. Then you take the High-Speed Train to Suzhou. 
+You can also consider taking a taxi from PVG to the Hongquao Train Station, which is around 60km and will cost you around CNY220. Then you take the High-Speed Train to Suzhou. 
 
 
 ### From Pudong International Airport to the Conference Center via the Long-Distance Bus
