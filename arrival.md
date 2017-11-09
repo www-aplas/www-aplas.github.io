@@ -220,7 +220,7 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   <br> <img src="photo/bus-ticket.jpg" alt="Ready" width="500"> <br>
   This is not a ticket from Pudong to Suzhou, but the layout of tickets is the same. The number(A00064 above) below the arrow stands for the bus number. Right below the number is your seat number(9) and the number on the right up corner(18) is the platform number, denoting where to wait for the bus. After buying the ticket, you can get into the waiting room through a security gate (as below), and wait for your bus according to the platform number on the ticket. 
   <br> <img src="photo/ld4.jpg" alt="Ready" width="500"> <br>
-  The bus will take 3h to arrive at Suzhou Railway Station, which is the terminal of the bus. This bus works from 9:20 to 21:00, and the detailed departure times are: 9:20, 10:10, 10:40, 11:10, 11:40, 12:10, 12:45, 13:30, 14:15, 14:50, 15:30, 16:10, 16:50, 17:30, 18:10, 18:50, 19:40, 20:30, 21:00.
+  The bus takes around 3h and make only two stops at the very end of the journey. Both stops are in Suzhou and you have to take the second stop at Suzhou Railway Station. This bus works from 9:20 to 21:00, and the detailed departure times are: 9:20, 10:10, 10:40, 11:10, 11:40, 12:10, 12:45, 13:30, 14:15, 14:50, 15:30, 16:10, 16:50, 17:30, 18:10, 18:50, 19:40, 20:30, 21:00.
   When you get off the bus, you need to walk out the bus station and will see a big square. Then walking into the square, you may find some sign (as below) directing you to the B1 floor.
   <br>
   <table><tr>
