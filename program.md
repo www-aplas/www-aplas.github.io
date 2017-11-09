@@ -1,4 +1,4 @@
-# APLAS 2017 Accepted Papers
+# APLAS 2017 Program
 
 ## Monday, November 27, 2017
 
