@@ -56,8 +56,9 @@
 
 ### Reception
 
-| 6:00 PM | 8:00 PM | Reception and Poster Session |
+| 6:00 PM | 8:00 PM | |
 |---------:|---------:|---|
+| 6:00 PM | 8:00 PM | Reception and Poster Session |
 
 
 ## Tuesday, November 28, 2017
