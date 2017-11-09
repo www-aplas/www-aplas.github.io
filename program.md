@@ -56,8 +56,9 @@
 
 ### Reception
 
-| 6:00 PM | 8:00 PM | Reception and Poster Session |
+| 6:00 PM | 8:00 PM | |
 |---------:|---------:|---|
+| 6:00 PM | 8:00 PM | Reception and Poster Session |
 
 
 ## Tuesday, November 28, 2017
@@ -116,7 +117,8 @@
 |---------:|---------:|---|
 | 5:00 PM | 5:10 PM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/). General Chair Report |
 | 5:10 PM | 5:20 PM | [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Program Chair Report |
-| 5:20 PM | 6:00 PM | Student Research Competition Finalist Presentations |
+| 5:20 PM | 5:30 PM | APLAS 2018 |
+| 5:30 PM | 6:00 PM | Student Research Competition Finalist Presentations |
 
 ### Banquet
 
@@ -127,6 +129,7 @@
 ## Wednesday, November 29, 2017
 
 ### Session: Invited Talk
+
 | 8:30 AM | 9:30 AM |  |
 |---------:|---------:|---|
 | 8:30 AM | 9:30 AM | [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg). Programming by Examples: PL meets ML |
@@ -138,7 +141,7 @@
 | 9:30 AM | 10:30 AM | Tea Break |
 
 
-### Domain-Specific Languages
+### Session: Domain-Specific Languages
 
 | 10:30 AM | 12:10 PM |  |
 |---------:|---------:|---|
