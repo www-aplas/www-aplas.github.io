@@ -140,7 +140,7 @@
 | 9:30 AM | 10:30 AM | Tea Break |
 
 
-### Domain-Specific Languages
+### Session: Domain-Specific Languages
 
 | 10:30 AM | 12:10 PM |  |
 |---------:|---------:|---|
