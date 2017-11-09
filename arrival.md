@@ -1,3 +1,8 @@
+  <style>
+  .abc {
+  border: 1px solid black;
+  }
+  </style>
 
 # Arrival
 
@@ -207,11 +212,6 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
   Get on an empty taxi, and then show the [map togeher with notes](photo/map1.pdf)(please print it out) for the driver, he will drive you to the conference center. Don't forget to take the receipt when you arrive. 
   If you need to go to the hotel instead of the conference center, then below table is useful for you:
   
-  <style>
-  .abc {
-  border: 1px solid black;
-  }
-  </style>
   <table class="abc">
   <tr class="abc">
   <th class="abc"> Hotel </th> <th class="abc"> Map </th> <th class="abc"> Cost </th>
@@ -228,7 +228,8 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
 
 <div id="Pudong"> </div>
 
-## Travel from Pudong International Airport to the Conference Center 
+## Travel from Pudong International Airport to the Conference Center
+
 There are two options to travel from this airport to the conference center:
 
 * The first option is to take a long distance bus to Suzhou Railway Station directly. We recommend this option. 
