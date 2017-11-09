@@ -18,7 +18,8 @@ the local organiser can be reached on the mobile:
 
 <p align="center"> Zhaohui:  (+86) 13646206084</p>
 
-## <h2 id="precaution"> Precautions </h2>
+<div id="precaution"> </div>
+## Precautions
 China is generally a safe country for travelling, if the usual precautions are taken. We
 assume you have never been in China before, therefore let us still start with some general
 points.
@@ -103,7 +104,8 @@ is accepted more widely, but also not everywhere). Pretty much the only places
 where cash can be obtained with a foreign credit card are ATMs in Chinese banks.
 There are several not far from the conference center.
 
-## <h2 id="Hongqiao"> Travel from Shanghai Hongqiao Airport to the Conference Center </h2>
+<div id="Hongqiao"> </div>
+## Travel from Shanghai Hongqiao Airport to the Conference Center
 In short, you have to get to (1) Hongqiao railway station and then from there to (2) Suzhou railway station. From Suzhou railway station it is best to take a taxi. Overall this will take approximately 2h of travelling to the conference center. 
 
 ### From Hongqiao Airport to Hongqiao Railway Station
@@ -119,7 +121,8 @@ In short, you have to get to (1) Hongqiao railway station and then from there to
   <br> <img src="photo/t1-subway.jpg" alt="T1 Subway" width="500"> <br>
   Then you should buy a ticket for Hongqiao Railway Station, which costs 3 RMB. Metro Line 10 runs from 6:18 to 23:22 from Sunday to Thursday, and from 6:18 to 00:42(the next day) from Friday to Saturday. 
 
-### <h2 id="metro"> Getting a Ticket for the Metro in Shanghai </h2>
+<div id="metro"> </div>
+### Getting a Ticket for the Metro in Shanghai
 Like most Chinese metro stations, entering the metro station at the airport means you have to go through a brief security check where your luggage will be X-rayed. After the check you will see ticket machines
   <br>
   <table><tr>
@@ -132,7 +135,8 @@ Like most Chinese metro stations, entering the metro station at the airport mean
   <br> <img src="photo/machine5.jpg" alt="Machine" width="500"> <br>
   You can learn more from [this video](https://www.youtube.com/watch?v=-ISy1ednyoc) in youtube. 
 
-### <h2 id="train"> From Hongqiao Railway Station to Suzhou Railway Station via High-Speed Train </h2>
+<div id="train"> </div>
+### From Hongqiao Railway Station to Suzhou Railway Station via High-Speed Train 
 As background, train stations above the village level in China are organised more
 like an airport, than the more sleepy train station you might be familiar with. Therefore,
 you first have to go through a security gate where luggage is checked and you padded by
@@ -199,7 +203,8 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
 
   The journey will cost you around 60 RMB and takes about 45 minutes. The taxi needs to be paid in cash. Make sure the taxi driver switches on the meter once you left the taxi stand!
 
-## <h2 id="Pudong"> Travel from Pudong International Airport to the Conference Center </h2>
+<div id="Pudong"> </div>
+## Travel from Pudong International Airport to the Conference Center 
 There are two options to travel from this airport to the conference center:
 
 * The first option is to take a long distance bus to Suzhou Railway Station directly. We recommend this option. 
