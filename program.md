@@ -127,6 +127,7 @@
 ## Wednesday, November 29, 2017
 
 ### Session: Invited Talk
+
 | 8:30 AM | 9:30 AM |  |
 |---------:|---------:|---|
 | 8:30 AM | 9:30 AM | [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg). Programming by Examples: PL meets ML |
