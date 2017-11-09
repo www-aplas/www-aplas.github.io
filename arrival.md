@@ -167,7 +167,8 @@ Next you need to buy a train ticket. If you exit from metro station, following s
   
   The journey to Suzhou Railway Station takes around 30m. Make sure your arrival station announced by the train is exactly "Suzhou Railway Station", not "Suzhou North Railway Station" or other. Trains from Hongqiao to Suzhou work from 6:09-21:42 at nearly 30m intervals. 
 
-### <h2 id="taxi"> Suzhou Railway Station to the Conference Center </h2>
+<div id="taxi"> </div>
+### Suzhou Railway Station to the Conference Center
 After checking your ticket to exit the train station, you will find a sign for "Taxi(North)" as shown below:
 <br> <img src="photo/taxi-north.jpg" alt="Taxi North" width="500"> <br>
 Following signs and you will see a KFC(Kentucky Fried Chicken) on your right hand side. Beside the KFC, there is the taxi stand(the left picture as below). When you enter it, you will see many taxies waiting on the road(the right picture). 
