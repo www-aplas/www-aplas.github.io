@@ -185,18 +185,18 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
   Get on an empty taxi, and then show the [map togeher with notes](photo/map1.pdf)(please print it out) for the driver, he will drive you to the conference center. Don't forget to take the receipt when you arrive. 
   If you need to go to the hotel instead of the conference center, then below table is useful for you:
   <style>
-  table, th, td {
+  .abc {
   border: 1px solid black;
   }
   </style>
-  <table>
-  <tr>
-  <th> Hotel </th> <th> Map </th> <th> Cost </th>
-  <tr>
-  <td> Jinling Guanyuan International Hotel </td> <td> [link](photo/map2.pdf) </td> <td> 60RMB </td>
+  <table class="abc">
+  <tr class="abc">
+  <th class="abc"> Hotel </th> <th class="abc"> Map </th> <th class="abc"> Cost </th>
+  <tr class="abc">
+  <td class="abc"> Jinling Guanyuan International Hotel </td> <td class="abc"> [link](photo/map2.pdf) </td> <td class="abc"> 60RMB </td>
   </tr>
-  <tr>
-  <td> Jingzhai Hotel </td> <td> [link](photo/map3.pdf) </td> <td> 60RMB </td>
+  <tr class="abc">
+  <td class="abc"> Jingzhai Hotel </td> <td class="abc"> [link](photo/map3.pdf) </td> <td class="abc"> 60RMB </td>
   </tr>
   </table>
   
