@@ -6,13 +6,14 @@
 
 | 8:20 AM | 9:30 AM |   |
 |---------:|---------:|---|
-| 8:20 AM | 8:30 AM | [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Welcome to APLAS 2017 |
+| 8:20 AM | 8:30 AM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/). Welcome to APLAS 2017 |
 | 8:30 AM | 9:30 AM | [Gilles Barthe](http://software.imdea.org/~gbarthe). Relational Verification of Higher-Order Probabilistic Programs |
 
 ### Break
 
-|9:30 AM | 10:30 AM | Tea Break |
+|9:30 AM | 10:30 AM |  |
 |---------:|---------:|---|
+|9:30 AM | 10:30 AM | Tea Break |
 
 ### Session: Security
 
@@ -25,22 +26,24 @@
 
 ### Lunch
 
-| 12:10 PM | 1:30 PM | Lunch |
+| 12:10 PM | 1:30 PM | |
 |---------:|---------:|---|
+| 12:10 PM | 1:30 PM | Lunch |
 
 ### Session: Heap and Equivalence Reasoning
 
 | 1:30 PM | 3:10 PM |  |
 |---------:|---------:|---|
 | 1:30 PM | 1:55 PM | [Manjeet Dahiya](http://www.cse.iitd.ernet.in/~dahiya/) and [Sorav Bansal](http://www.cse.iitd.ernet.in/~sbansal/). Black-box equivalence checking across compiler optimizations |
-| 01:55 PM | 02:20 PM | [Yoonseok Ko](http://plrg.kaist.ac.kr/kys), [Xavier Rival](http://www.di.ens.fr/~rival/) and [Sukyoung Ryu](http://plrg.kaist.ac.kr/ryu). Weakly Sensitive Analysis for Unbounded Iteration over JavaScript Objects |
-| 02:20 PM | 02:45 PM | Daisuke Kimura and [Makoto Tatsuta](http://research.nii.ac.jp/~tatsuta/index-e.html). Decision Procedure for Entailment of Symbolic Heaps with Arrays |
+| 1:55 PM | 2:20 PM | [Yoonseok Ko](http://plrg.kaist.ac.kr/kys), [Xavier Rival](http://www.di.ens.fr/~rival/) and [Sukyoung Ryu](http://plrg.kaist.ac.kr/ryu). Weakly Sensitive Analysis for Unbounded Iteration over JavaScript Objects |
+| 2:20 PM | 2:45 PM | Daisuke Kimura and [Makoto Tatsuta](http://research.nii.ac.jp/~tatsuta/index-e.html). Decision Procedure for Entailment of Symbolic Heaps with Arrays |
 | 2:45 PM | 3:10 PM | Qinxiang Cao, Santiago Cuellar and Andrew Appel. Putting order to the separation logic jungle |
 
 ### Break
 
-| 3:10 PM | 3:40 PM | Tea Break |
+| 3:10 PM | 3:40 PM | |
 |---------:|---------:|---|
+| 3:10 PM | 3:40 PM | Tea Break |
 
 ### Session: Concurrency and Verification
 
@@ -67,8 +70,9 @@
 
 ### Break
 
-| 9:30 AM | 10:30 AM | Tea Break |
+| 9:30 AM | 10:30 AM | |
 |---------:|---------:|---|
+| 9:30 AM | 10:30 AM | Tea Break |
 
 ### Session: Numerical
 
@@ -81,8 +85,9 @@
 
 ### Lunch
 
-| 12:10 PM | 1:30 PM | Lunch |
+| 12:10 PM | 1:30 PM | |
 |---------:|---------:|---|
+| 12:10 PM | 1:30 PM | Lunch |
 
 ### Session: Invited Talk
 
@@ -92,8 +97,9 @@
 
 ### Break
 
-| 2:30 PM | 3:00 PM | Tea Break |
+| 2:30 PM | 3:00 PM |  |
 |---------:|---------:|---|
+| 2:30 PM | 3:00 PM | Tea Break |
 
 ### Session: Semantics
 
@@ -106,13 +112,17 @@
 
 ### Session: Reports and Student Research Competition
 
-| 5:00 PM | 6:00 PM | Chairs' Reports, APLAS 2018, Student Research Competition Finalists
+| 5:00 PM | 6:00 PM | |
 |---------:|---------:|---|
+| 5:00 PM | 5:10 PM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/). General Chair Report |
+| 5:10 PM | 5:20 PM | [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Program Chair Report |
+| 5:20 PM | 6:00 PM | Student Research Competition Finalist Presentations |
 
 ### Banquet
 
-| 6:30 PM |  | Banquet |
+| 6:30 PM |  | |
 |---------:|---------:|---|
+| 6:30 PM |  | Banquet |
 
 ## Wednesday, November 29, 2017
 
@@ -123,8 +133,9 @@
 
 ### Break
 
-| 9:30 AM | 10:30 AM | Tea Break |
+| 9:30 AM | 10:30 AM | |
 |---------:|---------:|---|
+| 9:30 AM | 10:30 AM | Tea Break |
 
 
 ### Domain-Specific Languages
@@ -138,10 +149,12 @@
 
 ## Lunch
 
-| 12:10 PM | 1:30 PM | Lunch |
+| 12:10 PM | 1:30 PM | |
 |---------:|---------:|---|
+| 12:10 PM | 1:30 PM | Lunch |
 
 ## Excursion
 
-| 1:30 PM | 5:30 PM | Excursion |
+| 1:30 PM | 5:30 PM |  |
 |---------:|---------:|---|
+| 1:30 PM | 5:30 PM | Excursion |
