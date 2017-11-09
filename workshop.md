@@ -18,43 +18,43 @@ No formal proceedings will be published. Abstracts and slides will be available 
 *9:00 - 10:00 Program Analysis and Program Reasoning*
 
 -  Static Analysis in Encryption <br>
-  Kwangkeun Yi	
+  Kwangkeun Yi
 
 -  Existential Entailment in Logical Form for Array Logic <br>
-  Zhuohong Cai and Wei-Ngan Chin	
+  Zhuohong Cai and Wei-Ngan Chin
 
 *10:00 - 10:30 Coffee Break*
 
 *10:30 - 12:00 Concurrency*
 
 -  Hypergraph Lambda-Terms and Variable Convention <br>
-  Kazunori Ueda and Alimujiang Yasen	
+  Kazunori Ueda and Alimujiang Yasen
 
 -  Progress of Concurrent Objects with Partial Methods <br>
-  Hongjin Liang and Xinyu Feng	
+  Hongjin Liang and Xinyu Feng
 
 -  The Foundation of Concurrency Theory <br>
-  Yuxi Fu	
+  Yuxi Fu
 
 *12:00 - 13:30 Lunch*
 
 *13:30 - 14:30 Software Design*
 
 -  Learning to Synthesize<br>
-  Yingfei Xiong	
+  Yingfei Xiong
 
 -  Wyvern - Security by Design<br>
-  Alex Potanin and Jonathan Aldrich	
+  Alex Potanin and Jonathan Aldrich
 
 *14:30 - 15:00 Coffee Break*
 
 *15:00 - 16:00 Differencing and Derivatives*
 
 -  Biversional Semantics for Semantic Differencing<br>
-  Bor-Yuh Evan Chang, Matthew Hammer and Edmund Soon Lee Lam	
+  Bor-Yuh Evan Chang, Matthew Hammer and Edmund Soon Lee Lam
 
 -  Programming Derivatives for Sorting<br>
-  Zhenjiang Hu	
+  Zhenjiang Hu
 
 *16:00 - 16:10 Closing*
 

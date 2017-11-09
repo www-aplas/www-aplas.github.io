@@ -1,7 +1,7 @@
 # Registration
 
 ## Deadlines:
-- Early registration: Oct. 8, 2017
+- Early registration: Oct. 10, 2017
 - Late registration: Nov. 15, 2017 (we accept onsite registration)
 
 **We urge participants to register and start the [visa application](travel.html) as soon as possible, 
