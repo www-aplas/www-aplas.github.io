@@ -216,10 +216,10 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
   <tr class="abc">
   <th class="abc"> Hotel </th> <th class="abc"> Map </th> <th class="abc"> Cost </th>
   <tr class="abc">
-  <td class="abc"> Jinling Guanyuan International Hotel </td> <td class="abc"> [link](photo/map2.pdf) </td> <td class="abc"> 60RMB </td>
+  <td class="abc"> Jinling Guanyuan International Hotel </td> <td class="abc"> <a href="photo/map2.pdf"> link </a> </td> <td class="abc"> 60RMB </td>
   </tr>
   <tr class="abc">
-  <td class="abc"> Jingzhai Hotel </td> <td class="abc"> [link](photo/map3.pdf) </td> <td class="abc"> 60RMB </td>
+  <td class="abc"> Jingzhai Hotel </td> <td class="abc"> <a href="photo/map3.pdf"> link </a> </td> <td class="abc"> 60RMB </td>
   </tr>
   </table>
   
@@ -268,4 +268,4 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   </tr></table>
   <br>
   
-  The B1 floor is the place same as you arrive at the station by train. So following the signs for "Taxi(North)", you will find the same taxi stand described in the previous chapter. According to the information in [that chapter](#taxi), you will be driven to the conference center. 
+  The B1 floor is the place same as you arrive at the station by train. So following the signs for "Taxi(North)", you will find the same taxi stand described in the previous chapter. According to the information in [that chapter](#taxi) , you will be driven to the conference center. 
