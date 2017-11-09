@@ -215,6 +215,7 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
   <table class="abc">
   <tr class="abc">
   <th class="abc"> Hotel </th> <th class="abc"> Map </th> <th class="abc"> Cost </th>
+  </tr>
   <tr class="abc">
   <td class="abc"> Jinling Guanyuan International Hotel </td> <td class="abc"> <a href="photo/map2.pdf"> link </a> </td> <td class="abc"> 60RMB </td>
   </tr>
