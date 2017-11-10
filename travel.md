@@ -9,12 +9,14 @@ Try to use Shanghai Hongqiao International Airport if possible, which is much cl
 
 ## Local Transportation:
 
-See 
+Please read [**Arrival**](arrival.html) first, which includes much useful information. 
+
+You can also see
 - [Suzhou Transportation](https://www.travelchinaguide.com/cityguides/jiangsu/suzhou/getting-there.htm)
 - [Shanghai Airport Shuttle Bus to Nearby Cities](https://www.travelchinaguide.com/cityguides/shanghai/transportation/airport-shuttle-bus.htm) (Suzhou is the 9th city)
 - [Pudong Airport to Suzhou and back by train](https://www.tripadvisor.com/ShowTopic-g308272-i2804-k5732235-Pudong_Airport_to_Suzhou_and_back_by_train-Shanghai.html). 
 
-The detailed informaion is [here](arrival.html). Also feel free to contact me if you have questions.
+Feel free to contact me if you have questions.
 
 
 ## Visa
