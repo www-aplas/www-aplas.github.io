@@ -152,7 +152,9 @@ Next you need to buy a train ticket. If you exit from metro station, following s
   <br>
   
   Unlike the metro, ticket machines for trains are of no use for you, because you would need Chinese ID-card in order to buy anything with them. You have to queue on the usually longer queue and buy a ticket for Suzhou Railway station.
-  You need to show the [note(please print out)](photo/buy-ticket1.pdf), your passport and money to the ticket officer to get a ticket. 
+  You need to show the [note(please print out)](photo/buy-ticket1.pdf), your passport and money to the ticket officer to get a ticket.
+  There are three railway stations in Suzhou: Suzhou Railway Station, Suzhou North Railway Staion and Suzhou Industrial Park Railway Station. We recommend Suzhou Railway Station. 
+
   The ticket will cost around 39.5 RMB and looks like this:
   <br> <img src="photo/train-ticket.png" alt="Train Ticket" width="500"> <br>
   The G-Number (G7118 above) stands for the train number, which identifies the train also on the large displays at the hall. Below that number is the date and departure time, in this case 2017-11-04 and departure time 17:18. To the right is the coach number (04) and seat number (03B). Just below from that is the sign that the ticket is for second class (二). For the short duration of the trip there is no real need to buy a ticket for first class. On the top right-hand corner is the platform written(25).
@@ -212,6 +214,8 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
 
   The journey will cost you around 60 RMB and takes about 45 minutes. The taxi needs to be paid in cash. Make sure the taxi driver switches on the meter once you left the taxi stand!
 
+  If you are able to understand Chinese, you can take bus "Express 2" to reach the conference center. Following the "Bus(North)" signs, you will find the bus stop of Express 2. You need to take the bus to Xi Jiao Da stop, which is very close to the conference center. The whole journey will cost you 1h and take you 2RMB. 
+
 <div id="Pudong"> </div>
 
 ## Travel from Pudong International Airport (PVG) to the Conference Center
@@ -253,8 +257,16 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   
   <br> <img src="photo/ld4.jpg" alt="Ready" width="500"> <br>
   
-  The bus takes around 3h and make only two stops at the very end of the journey. Both stops are in Suzhou and you have to take the second stop at Suzhou Railway Station. This bus works from 9:20 to 21:00, and the detailed departure times are: 9:20, 10:10, 10:40, 11:10, 11:40, 12:10, 12:45, 13:30, 14:15, 14:50, 15:30, 16:10, 16:50, 17:30, 18:10, 18:50, 19:40, 20:30, 21:00.
-  When you get off the bus, you need to walk out the bus station and will see a big square. Then walking into the square, you may find some sign (as below) directing you to the B1 floor.
+  The bus takes around 3h and make only *two stops* at the very end of the journey. Both stops are in Suzhou. The first is near Culture Expo Center Subway Station, in Industrial Park and the second is near Suzhou Railway Station. If you want to get off the bus at the first stop, you should show the driver [the note](photo/stop1.pdf), which will help to place your luggage in the proper place. If you choose the second stop, then show the driver [another note](photo/stop2.pdf). This operation is necessary beacuse passengers getting off at different stops have to place their luggage in different places.
+
+The first stop is more closer to the conference center and by taxi it will only cost you around 25 RMB to the center. However, there is no standard taxi pick-up point near the stop, so you have to hail a taxi at a street curb. Most official cabs in Suzhou are white, as shown below:
+
+  <br> <img src="photo/taxi.png" alt="Taxi" width="500"> <br>
+
+  In order to reduce the risk of traveling, please take **white** taxies only!
+
+If you choose to take the second stop, you can take advantage of the taxi stand near Suzhou Railway Station. And the journey from this stop to the conference center by taxi will cost you around 60 RMB. 
+  To find the taxi stand, you need to walk out the bus station and will see a big square. Then walking into the square, you may find some sign (as below) directing you to the B1 floor.
   
   <br>
   <table><tr>
@@ -264,3 +276,5 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   <br>
   
   The B1 floor is the place same as you arrive at the station by train. So following the signs for "Taxi(North)", you will find the same taxi stand described in the previous chapter. According to the information in [that chapter](#taxi) , you will be driven to the conference center. 
+
+  This bus works from 9:20 to 21:00, and the detailed departure times are: 9:20, 10:10, 10:40, 11:10, 11:40, 12:10, 12:45, 13:30, 14:15, 14:50, 15:30, 16:10, 16:50, 17:30, 18:10, 18:50, 19:40, 20:30, 21:00.
