@@ -257,7 +257,7 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   
   <br> <img src="photo/ld4.jpg" alt="Ready" width="500"> <br>
   
-  The bus takes around 3h and make only *two stops* at the very end of the journey. Both stops are in Suzhou. The first is near Culture Expo Center Subway Station, in Industrial Park and the second is near Suzhou Railway Station. If you want to get off the bus at the first stop, you should show the driver [the note](photo/stop1.pdf), which will help to place your luggage in the proper place. If you choose the second stop, then show the driver [another note](photo/stop2.pdf). This operation is necessary beacuse passengers getting off at different stops have to place their luggage in different places.
+  The bus takes around 3h and make only *two stops* at the very end of the journey. Both stops are in Suzhou. The first is near Culture Expo Center Subway Station, in Industrial Park and the second is near Suzhou Railway Station. If you want to get off the bus at the first stop, you should show the driver [the note](photo/stop1.pdf), and then he/she will guide you to place your luggage in the proper place. If you choose the second stop, then show the driver [another note](photo/stop2.pdf). This act is necessary beacuse passengers getting off at different stops have to place their luggage in different places.
 
 The first stop is more closer to the conference center and by taxi it will only cost you around 25 RMB to the center. However, there is no standard taxi pick-up point near the stop, so you have to hail a taxi at a street curb. Most official cabs in Suzhou are white, as shown below:
 
