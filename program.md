@@ -6,7 +6,7 @@
 
 | 8:20 AM | 9:30 AM |   |
 |---------:|---------:|---|
-| 8:20 AM | 8:30 AM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/). Welcome to APLAS 2017 |
+| 8:20 AM | 8:30 AM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) and [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Welcome to APLAS 2017 |
 | 8:30 AM | 9:30 AM | [Gilles Barthe](http://software.imdea.org/~gbarthe). Relational Verification of Higher-Order Probabilistic Programs |
 
 ### Break
@@ -115,10 +115,9 @@
 
 | 5:00 PM | 6:00 PM | |
 |---------:|---------:|---|
-| 5:00 PM | 5:10 PM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/). General Chair Report |
-| 5:10 PM | 5:20 PM | [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Program Chair Report |
-| 5:20 PM | 5:30 PM | APLAS 2018 |
-| 5:30 PM | 6:00 PM | Student Research Competition Finalist Presentations |
+| 5:00 PM | 5:10 PM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) and [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Chairs' Report |
+| 5:10 PM | 5:15 PM | APLAS 2018 Announcement |
+| 5:15 PM | 6:00 PM | Student Research Competition Finalist Presentations |
 
 ### Banquet
 
