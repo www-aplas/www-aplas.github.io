@@ -29,37 +29,23 @@ It is warm in the day time and may be a little cold at night. So do not forget a
 It may also rain. 
 
 * **Bottled Water**
-Whereas in many places it is safe to drink water from taps, do not
-take chances and drink only bottled water! During the conference we will provide
-bottled water. In other places you have to buy bottles yourself. Remember, Chinese
-are famous for nibbling on a bottle of hot tea the whole day, even in sweltering
-temperatures. There is a reason for this.
+It's unsafe to drink tap water directly in China. You should either use the kettle in your hotel
+room to boil tap water first, or drink only bottled water.
 
 * **Traffic**
-Do not even think of renting a car in China. Hence, while in China, you
-probably will be mostly going around on foot. Be careful though: You might come
-from a region where traffic rules are organised so that pedestrians are mostly treated
-with respect by all other road users, or even have an "elevated status" because they
-are considered the "weakest". Traffic in China is, in contrast, organised more, shall
-we say, according to a Darwinian model: Under no circumstance assume a car (or
-even a bicycle or one of the many noiseless electric motor bikes) will stop for you. As
-pedestrian, you have to take care of everybody else.
-<br>
-Therefore, whenever possible
-cross roads at traffic lights and even if the light shows green for you, look out for
-cars that pay no attention to this fact. Also, zebra crossings do not, I repeat, do not
-have any special meaning in China for the road users higher up the traffic ladder
-(i.e. bicycles and above). Even if it sounds too funny, take our word and heed this
-advice...it might increase your life-expectancy.
+In China, cars do not always yield to pedestrians, so you have to be very careful when cross the street.
+Also there are bicycles and motorcycles which do not stop at the red traffic light, which means you have
+to watch out even if you cross the street when the traffic light is green.
+
 
 * **Free Public Wifi/Mobile Phones**
 While free public wifi is nowadays pretty ubiquitous
 in big cities in China (Starbucks, Costas, McDonalds are obvious places where
-to find wifi), you need nearly always a working mobile phone in order to use it. You
-will have to register your number when you log in, and the wifi operator will then
+to find wifi), you probably always need a Chinese mobile phone number in order to use it. You
+will have to register your phone number when you log in, and the wifi operator will then
 send you a password token via SMS. The problem is that chances are great your
 mobile phone will not work in China. Therefore do not assume you can check information on the Internet while travelling.
-<br>
+
 At the hotel and the conference center there will be wifi. But again, do not assume you can download that last episode of the Daily Show: while bandwidth will generally be enough for reading email, be prepared for an uninterrupted stay in China, free from any disturbance coming from online demands. 
 
 * **Google etc**
@@ -72,26 +58,25 @@ Facetime, in contrast, work fine. Dropbox, no.
 * **Map of Hotel/Taxis**
 While more and more young Chinese are exposed to English,
 you cannot rely on anyone of the general public speaking more than a few words.
-Rather, you have to always calculate with the very, very likely scenario that nobody
+Rather, you have to be prepared for the scenario that nobody
 speaks any English at all and all signs around you are written in characters that do
-not give you the slightest idea what they are about. This means you always have to
-prepare your travelling beforehand and ask us for help if you are unsure!
-<br>
-One part of every trip preparation, including your arrival, should be to carry with you
+not give you the slightest idea what they are about. This means it's always helpful
+to prepare your travelling beforehand and ask us for help if you are unsure!
+
+You may want to carry 
 a printed copy of the map where the conference center is located ([the map of the conference center](photo/map1.pdf)). When
 you want to go to the conference center by taxi, you need to show the map to the driver, since
 telling the name of the conference center will most probably not be understood and also the driver most
 likely does not know where it is located. Showing the map will also guard against
-the possible situation where a taxi driver cannot actually read the address. Take the
-map always with you: it might be your life-line for avoiding unpleasant situations.
+the possible situation where a taxi driver cannot actually read the address. 
+
 For travelling inside Suzhou, taxis can be hailed at the street curb. You need to pay
-them in cash. They are always metered.
+them in cash. They are always metered. Try to avoid taxis of black color. The cars
+are of more luxury models and they are about 1.5 times more expensive than regular ones.
 
 * **Tips in Restaurants, Taxi**
-One easy aspect of travelling in China are matters to do
-with tipping: no tips are expected when paying at a restaurant, for a taxi journey
-etc. The good thing about this is you are treated as a nice customer, if you are a nice
-customer (meaning you treat staff with respect).
+No tips are needed when paying at a restaurant, or for a taxi journey
+etc. 
 
 * **Cash/Credit Cards**
 While foreign credit cards are accepted in a number of places,
@@ -198,14 +183,24 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
 
   The journey will cost you around 60 RMB and takes about 45 minutes. The taxi needs to be paid in cash. Make sure the taxi driver switches on the meter once you left the taxi stand!
 
-## <h2 id="Pudong"> Travel from Pudong International Airport to the Conference Center </h2>
-There are two options to travel from this airport to the conference center:
+## <h2 id="Pudong"> Travel from Pudong International Airport (PVG) to the Conference Center </h2>
+It's about 150km from PVG to Suzhou. There are several options reach Suzhou:
 
-* The first option is to take a long distance bus to Suzhou Railway Station directly. We recommend this option. 
 
-* A bit more complex is going first by metro Line 2 to Hongqiao Railway Station, which is the last but one station of the line. If you don't know how to buy a ticket of metro, please read [this chapter](#metro) first. The metro will operate between 6:00 and 22:00. At Guanglan Road station however, you need change to the train at the opposite side, for the metro line from Pudong International Airport to Hongqiao Railway Station is split to two disjoint part. The Guanglan Road is the split point. There is detailed explanation in English from the broadcast, so don't worry too much. To complicate more, the metro may end at Songhong Road, for the shorter line can enhance the throughput of the metro. On this situation, you must wait for the next metro train at the same side. The metro will cost you 8 RMB and take about 2 hours. After you arrive at Hongqiao Railway Station, remain part of the journey is same as from Hongqiao airport and you can refer to [that chapter](#train).
+* The first option is to take a long distance bus to Suzhou Railway Station directly. We recommend this option. See more detailed instructions below.
 
-### From Pudong International Airport to the Conference Center
+* A bit more complex is going first by metro Line 2 to Hongqiao Railway Station, which is the last but one station of the line. If you don't know how to buy a ticket of metro, please read [this chapter](#metro) first. The metro will operate between 6:00 and 22:00. The metro will cost you 8 RMB and take about 2 hours. After you arrive at Hongqiao Railway Station, remain part of the journey is same as from Hongqiao airport and you can refer to [that chapter](#train).
+<br>
+Note that Line 2 is split to two parts. You have to get off at the Guanglan Road Station, and change to a metro at <b>the opposite side</b> (but still Line 2) going to the Hongqiao Railway Station. To complicate things more, the metro going to the direction of Hongqiao Railway Station may be a shorter line ending at the Songhong Road Station, two stops ahead of the Hongqiao Railway Station. On this situation, you must wait for the next metro train at the <b>same side</b>. Instructions on how to make the connection is broadcasted in both Chinese and English, so just pay attention to the broadcast. 
+
+* You can also take the meglev from the Airport, which is a high-speed non-stop train. Then switch to the Line 2 metro at the Longyang Road Station, and take the metro going to Xujing Dong Station to Hongqiao Railway Station. The terminal of the meglev is close to the metro station, but you have to buy the metro ticket for the connection and cannot keep using the meglev ticket. Again, the metro may be a shorter line ending at the Songhong Road Station. Then you need to get off the train and wait for the next metro train at the <b>same side</b>, as explained above.
+
+* Taxi: you can take a taxi from PVG directly to the conference hotel, which can be expensive and may cost you around CNY 600 (around USD $100). Note that not every taxi driver is willing to make this long-distance trip (although many of them are happy to do so). Also in this case they may not use the meter to calculate the price. Instead, you have to negotiate the price with them before leaving.
+<br>
+You can also consider taking a taxi from PVG to the Hongquao Train Station, which is around 60km and will cost you around CNY220. Then you take the High-Speed Train to Suzhou. 
+
+
+### From Pudong International Airport to the Conference Center via the Long-Distance Bus
 Following the signs for "Long Distance Bus", you can find the bus stop, which may take you 10min by walk. The signs are shown as below:
   <br>
   <table><tr>
@@ -216,7 +211,7 @@ Following the signs for "Long Distance Bus", you can find the bus stop, which ma
   Next you need to buy a bus ticket. There are ticket counters, see below.
   <br> <img src="photo/ld3.jpg" alt="Ready" width="500"> <br>
   You need to show the [note(please print out)](photo/buy-ticket2.pdf), your passport and money to the ticket officer to get a ticket.
-  The ticket will cost around 84 RMB and looks like this:
+  The ticket will cost 84 RMB and looks like this:
   <br> <img src="photo/bus-ticket.jpg" alt="Ready" width="500"> <br>
   This is not a ticket from Pudong to Suzhou, but the layout of tickets is the same. The number(A00064 above) below the arrow stands for the bus number. Right below the number is your seat number(9) and the number on the right up corner(18) is the platform number, denoting where to wait for the bus. After buying the ticket, you can get into the waiting room through a security gate (as below), and wait for your bus according to the platform number on the ticket. 
   <br> <img src="photo/ld4.jpg" alt="Ready" width="500"> <br>
