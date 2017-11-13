@@ -23,12 +23,8 @@ List of accepted posters:
   Collaborative Development Environment: Fusing Human Insights into Automated Program Repair
 -	[SRC] **Shengyi Wang, Qinxiang Cao and Aquinas Hobor**.
   Mechanized Verification of Graph-Manipulating Programs
--	**Asiful Islam and Sun Wenhui**.
-  Implementing Gradual Type in Racket Language
 -	**Takamasa Okudono, Yuki Nishida, Kensuke Kojima, Kohei Suenaga, Kengo Kido and Ichiro Hasuo**.
   Sharper and Simpler Nonlinear Interpolants for Program Verification
--	[SRC] **Ines Sarray, Annie Ressouche, Sabine Moisan, Jean-Paul Rigault and Daniel Gaffe**.
-  Semantic Studies of a Synchronous Approach to Activity Recognition
 -	[SRC] **Manjeet Dahiya and Sorav Bansal**. 
   Automatic Verification of Intermittent Systems
 -	[SRC] **Takafumi Kataoka, Tomoharu Ugawa and Hideya Iwasaki**.
