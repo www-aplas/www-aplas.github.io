@@ -214,7 +214,7 @@ Following signs and you will see a KFC(Kentucky Fried Chicken) on your right han
 
   The journey will cost you around 60 RMB and takes about 45 minutes. The taxi needs to be paid in cash. Make sure the taxi driver switches on the meter once you left the taxi stand!
 
-  If you are able to understand Chinese, you can take bus "Express 2" to reach the conference center. Following the "Bus(North)" signs, you will find the bus stop of Express 2. You need to take the bus to Xi Jiao Da stop, which is very close to the conference center. The whole journey will cost you 1h and take you 2RMB. 
+  If you are able to understand Chinese, you can take bus "Express 2" to reach the conference center. Following the "Bus(North)" signs, you will find the bus stop of Express 2. You need to take the bus to Xi Jiao Da stop, which is very close to the conference center. The whole journey will cost you 1h and take you 1RMB. 
 
 <div id="Pudong"> </div>
 
@@ -228,7 +228,7 @@ It's about 150km from PVG to Suzhou. There are several options reach Suzhou:
 <br>
 Note that Line 2 is split to two parts. You have to get off at the Guanglan Road Station, and change to a metro at <b>the opposite side</b> (but still Line 2) going to the Hongqiao Railway Station. To complicate things more, the metro going to the direction of Hongqiao Railway Station may be a shorter line ending at the Songhong Road Station, two stops ahead of the Hongqiao Railway Station. On this situation, you must wait for the next metro train at the <b>same side</b>. Instructions on how to make the connection is broadcasted in both Chinese and English, so just pay attention to the broadcast. 
 
-* You can also take the meglev from the Airport, which is a high-speed non-stop train. Then switch to the Line 2 metro at the Longyang Road Station, and take the metro going to Xujing Dong Station to Hongqiao Railway Station. The terminal of the meglev is close to the metro station, but you have to buy the metro ticket for the connection and cannot keep using the meglev ticket. Again, the metro may be a shorter line ending at the Songhong Road Station. Then you need to get off the train and wait for the next metro train at the <b>same side</b>, as explained above.
+* You can also take the maglev from the Airport, which is a high-speed non-stop train. Then switch to the Line 2 metro at the Longyang Road Station, and take the metro going to Xujing Dong Station to Hongqiao Railway Station. The terminal of the maglev is close to the metro station, but you have to buy the metro ticket for the connection and cannot keep using the maglev ticket. Again, the metro may be a shorter line ending at the Songhong Road Station. Then you need to get off the train and wait for the next metro train at the <b>same side</b>, as explained above.
 
 * Taxi: you can take a taxi from PVG directly to the conference hotel, which can be expensive and may cost you around CNY 600 (around USD $100). Note that not every taxi driver is willing to make this long-distance trip (although many of them are happy to do so). Also in this case they may not use the meter to calculate the price. Instead, you have to negotiate the price with them before leaving.
 <br>
