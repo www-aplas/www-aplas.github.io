@@ -2,7 +2,10 @@
 
 Every good time has to come to an end. We assume most people have to leave by shuttle bus (either to Hongqiao Airport or Pudong International Airport). If you have to arrive at the airport very early(before nearly 7:35 for Hongqiao and 8:35 for Pudong) or very late (after nearly 19:40 for Hongqiao and 20:40 for Pudong), the most sensible ways seems to take a taxi to Suzhou Railway Station, and then from there take the high-speed train to Shanghai, which runs from 5:27 to 22:43, and take also a taxi to your airport. Or go the whole way to the airport by taxi. Note that not every taxi driver is willing to make this long-distance trip (although many of them are happy to do so). Also in this case they may not use the meter to calculate the price. Instead, you have to negotiate the price (around 600 RMB or 100$) with them before leaving.
 
+
 ## By Airport Shuttle Bus
+
+If you plan to take this method, we suggest you to check out at least 6 hours before your flight. 
 
 To take the bus, you should reach Modern Plaza by taxi, with [this map](dephoto/modern-plaza.pdf). The taxi will drive you to the intersection of You An street and Wang Dun road. If you depart from places near the conference center, it may cost around 25 RMB.
 At the intersection, you will see a big sign shown as below:
@@ -37,7 +40,9 @@ The whole journey will take you around 90min to Hongqiao and around 150min to Pu
 If you want to reach Terminal 1 of Hongqiao Airport, however, you should refer to the later chapter describing how to reach Terminal 1 from Hongqiao Railway Station, which is near the bus stop at Hongqiao Airport. 
 
 
+
 ## By train
+If you plan to take this method, we suggest you to check out at least 8 hours before your flight.
 
 To reach Suzhou Railway Station, show the taxi driver [this map](dephoto/suzhou-railway.pdf).
 
