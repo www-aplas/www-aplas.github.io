@@ -64,4 +64,7 @@ There are also many restaurants, bakery stores, coffee shops and convenience sto
 
 ## More Information about Suzhou
 
-See [Suzhou Travel Guide](https://www.travelchinaguide.com/cityguides/suzhou.htm).
+* [Suzhou Travel Guide](https://www.travelchinaguide.com/cityguides/suzhou.htm).
+* [What's on in Suzhou](http://www.whatsoninsuzhou.com.cn/)
+* [Suzhou City Guide](http://www.cityweekend.com.cn/suzhou)
+* [Website of the Suzhou Government](http://english.suzhou.gov.cn/)
