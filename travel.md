@@ -9,7 +9,7 @@ Try to use Shanghai Hongqiao International Airport if possible, which is much cl
 
 ## Local Transportation:
 
-### Please read [**Arrival**](arrival.html) first, which includes much useful information. 
+### Please read [**Arrival**](arrival.html) and [**Departure**](departure.html) first, which includes much useful information. 
 
 You can also see
 - [Suzhou Transportation](https://www.travelchinaguide.com/cityguides/jiangsu/suzhou/getting-there.htm)
