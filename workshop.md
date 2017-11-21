@@ -13,22 +13,23 @@ No formal proceedings will be published. Abstracts and slides will be available 
 
 ## Workshop Program
 
-*8:50-9:00 Openning*
+*9:20-9:30 Openning*
 
-*9:00 - 10:00 Program Analysis and Program Reasoning*
+*9:30 - 10:30 Program Reasoning*
 
--  Static Analysis in Encryption <br>
+<!---  Static Analysis in Encryption <br>
   Kwangkeun Yi
+-->
+
+-  Hypergraph Lambda-Terms and Variable Convention <br>
+  Kazunori Ueda and Alimujiang Yasen
 
 -  Existential Entailment in Logical Form for Array Logic <br>
   Zhuohong Cai and Wei-Ngan Chin
 
-*10:00 - 10:30 Coffee Break*
+*10:30 - 11:00 Coffee Break*
 
-*10:30 - 12:00 Concurrency*
-
--  Hypergraph Lambda-Terms and Variable Convention <br>
-  Kazunori Ueda and Alimujiang Yasen
+*11:00 - 12:00 Concurrency*
 
 -  Progress of Concurrent Objects with Partial Methods <br>
   Hongjin Liang and Xinyu Feng
