@@ -2,33 +2,39 @@
 
 ## Monday, November 27, 2017
 
+### Registration
+
+|8:00 AM | 8:30 AM |  |
+|---------:|---------:|---|
+|8:00 AM | 8:30 AM | Registration |
+
 ### Session: Invited Talk
 
-| 8:20 AM | 9:30 AM |   |
+| 8:30 AM | 9:35 AM |   |
 |---------:|---------:|---|
-| 8:20 AM | 8:30 AM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) and [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Welcome to APLAS 2017 |
-| 8:30 AM | 9:30 AM | [Gilles Barthe](http://software.imdea.org/~gbarthe). Relational Verification of Higher-Order Probabilistic Programs |
+| 8:30 AM | 8:35 AM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) and [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Welcome to APLAS 2017 |
+| 8:35 AM | 9:35 AM | [Gilles Barthe](http://software.imdea.org/~gbarthe). Relational Verification of Higher-Order Probabilistic Programs |
 
 ### Break
 
-|9:30 AM | 10:30 AM |  |
+|9:35 AM | 10:10 AM |  |
 |---------:|---------:|---|
-|9:30 AM | 10:30 AM | Tea Break |
+|9:35 AM | 10:10 AM | Tea Break |
 
 ### Session: Security
 
-| 10:30 AM | 12:10 PM |  |
+| 10:10 AM | 11:50 PM |  |
 |---------:|---------:|---|
-| 10:30 AM | 10:55 AM | Ximeng Li, Heiko Mantel and Markus Tasch. Taming Message-passing Communication in Compositional Reasoning about Confidentiality |
-| 10:55 AM | 11:20 AM | [Ian J. Hayes](http://staff.itee.uq.edu.au/ianh/), Xi Wu and [Larissa Meinicke](http://www.uq.edu.au/uqresearchers/researcher/meinickela.html). Capabilities for Java: Secure Access to Resources |
-| 11:20 AM | 11:45 AM | [Serdar Erbatur](https://www.tcs.ifi.lmu.de/mitarbeiter/serdar-erbatur), [Martin Hofmann](http://www.tcs.ifi.lmu.de/~mhofmann) and Eugen Zalinescu. Enforcing Programming Guidelines with Region Types and Effects |
-| 11:45 AM | 12:10 PM | Neline van Ginkel, Raoul Strackx and Frank Piessens. Automatically generating secure wrappers for SGX enclaves from separation logic specifications |
+| 10:10 AM | 10:35 AM | Ximeng Li, Heiko Mantel and Markus Tasch. Taming Message-passing Communication in Compositional Reasoning about Confidentiality |
+| 10:35 AM | 11:00 AM | [Ian J. Hayes](http://staff.itee.uq.edu.au/ianh/), Xi Wu and [Larissa Meinicke](http://www.uq.edu.au/uqresearchers/researcher/meinickela.html). Capabilities for Java: Secure Access to Resources |
+| 11:00 AM | 11:25 AM | [Serdar Erbatur](https://www.tcs.ifi.lmu.de/mitarbeiter/serdar-erbatur), [Martin Hofmann](http://www.tcs.ifi.lmu.de/~mhofmann) and Eugen Zalinescu. Enforcing Programming Guidelines with Region Types and Effects |
+| 11:25 AM | 11:50 PM | Neline van Ginkel, Raoul Strackx and Frank Piessens. Automatically generating secure wrappers for SGX enclaves from separation logic specifications |
 
 ### Lunch
 
-| 12:10 PM | 1:30 PM | |
+| 11:50 AM | 1:30 PM | |
 |---------:|---------:|---|
-| 12:10 PM | 1:30 PM | Lunch |
+| 11:50 AM | 1:30 PM | Lunch |
 
 ### Session: Heap and Equivalence Reasoning
 
@@ -71,24 +77,24 @@
 
 ### Break
 
-| 9:30 AM | 10:30 AM | |
+| 9:30 AM | 10:00 AM | |
 |---------:|---------:|---|
-| 9:30 AM | 10:30 AM | Tea Break |
+| 9:30 AM | 10:00 AM | Tea Break |
 
 ### Session: Numerical
 
-| 10:30 AM | 12:10 PM |  |
+| 10:00 AM | 11:40 PM |  |
 |---------:|---------:|---|
-| 10:30 AM | 10:55 AM | [Aziem Chawdhary](http://www.chawdhary.co.uk) and [Andy King](http://www.cs.kent.ac.uk/people/staff/amk/). Compact Difference Bound Matrices |
-| 10:55 AM | 11:20 AM | [Takamasa Okudono](http://group-mmm.org/~tokudono/), Yuki Nishida, Kensuke Kojima, [Kohei Suenaga](http://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/), [Kengo Kido](http://www-mmm.is.s.u-tokyo.ac.jp/~kkido/) and [Ichiro Hasuo](http://group-mmm.org/~ichiro). Sharper and Simpler Nonlinear Interpolants for Program Verification |
-| 11:20 AM | 11:45 AM | Hirofumi Nakamura, Kensuke Kojima, [Kohei Suenaga](http://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/) and [Atsushi Igarashi](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/). A Nonstandard Functional Programming Language |
-| 11:45 AM | 12:10 PM | Shaobo He and Zvonimir Rakamaric. Counterexample-Guided Bit-Precision Selection |
+| 10:00 AM | 10:25 AM | [Aziem Chawdhary](http://www.chawdhary.co.uk) and [Andy King](http://www.cs.kent.ac.uk/people/staff/amk/). Compact Difference Bound Matrices |
+| 10:25 AM | 10:50 AM | [Takamasa Okudono](http://group-mmm.org/~tokudono/), Yuki Nishida, Kensuke Kojima, [Kohei Suenaga](http://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/), [Kengo Kido](http://www-mmm.is.s.u-tokyo.ac.jp/~kkido/) and [Ichiro Hasuo](http://group-mmm.org/~ichiro). Sharper and Simpler Nonlinear Interpolants for Program Verification |
+| 10:50 AM | 11:15 AM | Hirofumi Nakamura, Kensuke Kojima, [Kohei Suenaga](http://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/) and [Atsushi Igarashi](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/). A Nonstandard Functional Programming Language |
+| 11:15 AM | 11:40 PM | Shaobo He and Zvonimir Rakamaric. Counterexample-Guided Bit-Precision Selection |
 
 ### Lunch
 
-| 12:10 PM | 1:30 PM | |
+| 11:40 AM | 1:30 PM | |
 |---------:|---------:|---|
-| 12:10 PM | 1:30 PM | Lunch |
+| 11:40 AM | 1:30 PM | Lunch |
 
 ### Session: Invited Talk
 
@@ -111,11 +117,17 @@
 | 3:50 PM | 4:15 PM | [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) and Bruno Barras. The Negligible and Yet Subtle Cost of Pattern Matching |
 | 4:15 PM | 4:40 PM | [Alejandro Díaz-Caro](http://diaz-caro.web.unq.edu.ar). A lambda calculus for density matrices wth classical and probabilistic controls |
 
+### Short Break
+
+| 4:40 PM | 5:00 PM |  |
+|---------:|---------:|---|
+| 4:40 PM | 5:00 PM | Short Break |
+
 ### Session: Reports and Student Research Competition
 
 | 5:00 PM | 6:00 PM | |
 |---------:|---------:|---|
-| 5:00 PM | 5:10 PM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) and [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Chairs' Report |
+| 5:00 PM | 5:10 PM | [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Chairs' Report |
 | 5:10 PM | 5:15 PM | APLAS 2018 Announcement |
 | 5:15 PM | 6:00 PM | Student Research Competition Finalist Presentations |
 
@@ -135,28 +147,28 @@
 
 ### Break
 
-| 9:30 AM | 10:30 AM | |
+| 9:30 AM | 10:00 AM | |
 |---------:|---------:|---|
-| 9:30 AM | 10:30 AM | Tea Break |
+| 9:30 AM | 10:00 AM | Tea Break |
 
 
 ### Session: Domain-Specific Languages
 
-| 10:30 AM | 12:10 PM |  |
+| 10:00 AM | 11:40 PM |  |
 |---------:|---------:|---|
-| 10:30 AM | 10:55 AM | Yongzhe Zhang, Hsiang-Shang Ko and Zhenjiang Hu. Palgol: A High-Level DSL for Vertex-Centric Graph Processing with Remote Data Access |
-| 10:55 AM | 11:20 AM | Bob Reynders and Dominique Devriese. Efficient Functional Reactive Programming through Incremental Behaviors |
-| 11:20 AM | 11:45 AM | Daan Leijen. Implementing Algebraic Effects in C (or "Monads for Free in C") |
-| 11:45 AM | 12:10 PM | [Oleg Kiselyov](http://okmij.org/ftp/) and Tatsuya Katsushima. Sound and Efficient Language-Integrated Query: Maintaining the ORDER |
+| 10:00 AM | 10:25 AM | Yongzhe Zhang, Hsiang-Shang Ko and Zhenjiang Hu. Palgol: A High-Level DSL for Vertex-Centric Graph Processing with Remote Data Access |
+| 10:25 AM | 10:50 AM | Bob Reynders and Dominique Devriese. Efficient Functional Reactive Programming through Incremental Behaviors |
+| 10:50 AM | 11:15 AM | Daan Leijen. Implementing Algebraic Effects in C (or "Monads for Free in C") |
+| 11:15 AM | 11:40 PM | [Oleg Kiselyov](http://okmij.org/ftp/) and Tatsuya Katsushima. Sound and Efficient Language-Integrated Query: Maintaining the ORDER |
 
 ## Lunch
 
-| 12:10 PM | 1:30 PM | |
+| 11:40 AM | 1:00 PM | |
 |---------:|---------:|---|
-| 12:10 PM | 1:30 PM | Lunch |
+| 11:40 AM | 1:00 PM | Lunch |
 
 ## Excursion
 
-| 1:30 PM | 5:30 PM |  |
+| 1:00 PM | 5:30 PM |  |
 |---------:|---------:|---|
-| 1:30 PM | 5:30 PM | Excursion |
+| 1:00 PM | 5:30 PM | Excursion |
