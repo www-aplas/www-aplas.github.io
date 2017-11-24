@@ -10,20 +10,20 @@
 
 ### Session: Invited Talk
 
-| 8:30 AM | 9:35 AM |   |
+| 8:30 AM | 9:35 AM | Chair: [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec) |
 |---------:|---------:|---|
 | 8:30 AM | 8:35 AM | [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) and [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Welcome to APLAS 2017 |
 | 8:35 AM | 9:35 AM | [Gilles Barthe](http://software.imdea.org/~gbarthe). Relational Verification of Higher-Order Probabilistic Programs |
 
 ### Break
 
-|9:35 AM | 10:10 AM |  |
+|9:35 AM | 10:10 AM | |
 |---------:|---------:|---|
 |9:35 AM | 10:10 AM | Tea Break |
 
 ### Session: Security
 
-| 10:10 AM | 11:50 PM |  |
+| 10:10 AM | 11:50 PM | Chair: [Atsushi Igarashi](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/) |
 |---------:|---------:|---|
 | 10:10 AM | 10:35 AM | Ximeng Li, Heiko Mantel and Markus Tasch. Taming Message-passing Communication in Compositional Reasoning about Confidentiality |
 | 10:35 AM | 11:00 AM | [Ian J. Hayes](http://staff.itee.uq.edu.au/ianh/), Xi Wu and [Larissa Meinicke](http://www.uq.edu.au/uqresearchers/researcher/meinickela.html). Capabilities for Java: Secure Access to Resources |
@@ -38,7 +38,7 @@
 
 ### Session: Heap and Equivalence Reasoning
 
-| 1:30 PM | 3:10 PM |  |
+| 1:30 PM | 3:10 PM | Chair: [Zhenjiang Hu](http://research.nii.ac.jp/~hu/) |
 |---------:|---------:|---|
 | 1:30 PM | 1:55 PM | [Manjeet Dahiya](http://www.cse.iitd.ernet.in/~dahiya/) and [Sorav Bansal](http://www.cse.iitd.ernet.in/~sbansal/). Black-box equivalence checking across compiler optimizations |
 | 1:55 PM | 2:20 PM | [Yoonseok Ko](http://plrg.kaist.ac.kr/kys), [Xavier Rival](http://www.di.ens.fr/~rival/) and [Sukyoung Ryu](http://plrg.kaist.ac.kr/ryu). Weakly Sensitive Analysis for Unbounded Iteration over JavaScript Objects |
@@ -53,7 +53,7 @@
 
 ### Session: Concurrency and Verification
 
-| 3:40 PM | 5:20 PM |  |
+| 3:40 PM | 5:20 PM | Chair: [Makoto Tatsuta](http://research.nii.ac.jp/~tatsuta/index-e.html)  |
 |---------:|---------:|---|
 | 3:40 PM | 4:05 PM | Cristina Matache, [Victor B. F. Gomes](http://www.cl.cam.ac.uk/~vb358/) and [Dominic Mulligan](http://www.dominic-mulligan.co.uk). Programming and proving with classical types |
 | 4:05 PM | 4:30 PM | Adrien Pommellet and [Tayssir Touili](https://lipn.univ-paris13.fr/~touili/). Static Analysis of Multithreaded Recursive Programs Communicating via Rendez-vous |
@@ -71,7 +71,7 @@
 
 ### Session: Invited Talk
 
-| 8:30 AM | 9:30 AM |  |
+| 8:30 AM | 9:30 AM | Chair: [Xinyu Feng](http://staff.ustc.edu.cn/~xyfeng/) |
 |---------:|---------:|---|
 | 8:30 AM | 9:30 AM | [Naijun Zhan](http://lcs.ios.ac.cn/~znj/). Synthesizing SystemC Code from Delay Hybrid CSP |
 
@@ -83,7 +83,7 @@
 
 ### Session: Numerical
 
-| 10:00 AM | 11:40 PM |  |
+| 10:00 AM | 11:40 PM | Chair: Kazunori Ueda |
 |---------:|---------:|---|
 | 10:00 AM | 10:25 AM | [Aziem Chawdhary](http://www.chawdhary.co.uk) and [Andy King](http://www.cs.kent.ac.uk/people/staff/amk/). Compact Difference Bound Matrices |
 | 10:25 AM | 10:50 AM | [Takamasa Okudono](http://group-mmm.org/~tokudono/), Yuki Nishida, Kensuke Kojima, [Kohei Suenaga](http://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/), [Kengo Kido](http://www-mmm.is.s.u-tokyo.ac.jp/~kkido/) and [Ichiro Hasuo](http://group-mmm.org/~ichiro). Sharper and Simpler Nonlinear Interpolants for Program Verification |
@@ -98,7 +98,7 @@
 
 ### Session: Invited Talk
 
-| 1:30 PM | 2:30 PM |  |
+| 1:30 PM | 2:30 PM | Chair: [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec) |
 |---------:|---------:|---|
 | 1:30 PM | 2:30 PM | [Ron Garcia](http://www.cs.ubc.ca/~rxg/). Gradual Enforcement of Program Invariants |
 
@@ -110,7 +110,7 @@
 
 ### Session: Semantics
 
-| 3:00 PM | 4:40 PM |  |
+| 3:00 PM | 4:40 PM | Chair: [Oleg Kiselyov](http://okmij.org/ftp/)  |
 |---------:|---------:|---|
 | 3:00 PM | 3:25 PM | Martin Sulzmann and [Peter Thiemann](http://www.informatik.uni-freiburg.de/~thiemann). A Computational Interpretation of Context-Free Expressions |
 | 3:25 PM | 3:50 PM | [Niccolò Veltri](http://cs.ioc.ee/~niccolo/) and [Tarmo Uustalu](http://cs.ioc.ee/~tarmo/). Partiality and container monads |
@@ -125,9 +125,9 @@
 
 ### Session: Reports and Student Research Competition
 
-| 5:00 PM | 6:00 PM | |
+| 5:00 PM | 6:00 PM | Chair: [Yu Zhang](http://staff.ustc.edu.cn/~yuzhang/) |
 |---------:|---------:|---|
-| 5:00 PM | 5:10 PM | [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Chairs' Report |
+| 5:00 PM | 5:10 PM | [Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec). Chair's Report |
 | 5:10 PM | 5:15 PM | APLAS 2018 Announcement |
 | 5:15 PM | 6:00 PM | Student Research Competition Finalist Presentations |
 
@@ -141,7 +141,7 @@
 
 ### Session: Invited Talk
 
-| 8:30 AM | 9:30 AM |  |
+| 8:30 AM | 9:30 AM | Chair: [Andy King](http://www.cs.kent.ac.uk/people/staff/amk/)  |
 |---------:|---------:|---|
 | 8:30 AM | 9:30 AM | [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg). Programming by Examples: PL meets ML |
 
@@ -154,7 +154,7 @@
 
 ### Session: Domain-Specific Languages
 
-| 10:00 AM | 11:40 PM |  |
+| 10:00 AM | 11:40 PM | Chair: [Wei Ngan Chin](https://www.comp.nus.edu.sg/~chinwn/)  |
 |---------:|---------:|---|
 | 10:00 AM | 10:25 AM | Yongzhe Zhang, Hsiang-Shang Ko and Zhenjiang Hu. Palgol: A High-Level DSL for Vertex-Centric Graph Processing with Remote Data Access |
 | 10:25 AM | 10:50 AM | Bob Reynders and Dominique Devriese. Efficient Functional Reactive Programming through Incremental Behaviors |
