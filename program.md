@@ -83,7 +83,7 @@
 
 ### Session: Numerical
 
-| 10:00 AM | 11:40 PM | Chair: Kazunori Ueda |
+| 10:00 AM | 11:40 PM | Chair: [Kazunori Ueda](http://www.ueda.info.waseda.ac.jp/~ueda/) |
 |---------:|---------:|---|
 | 10:00 AM | 10:25 AM | [Aziem Chawdhary](http://www.chawdhary.co.uk) and [Andy King](http://www.cs.kent.ac.uk/people/staff/amk/). Compact Difference Bound Matrices |
 | 10:25 AM | 10:50 AM | [Takamasa Okudono](http://group-mmm.org/~tokudono/), Yuki Nishida, Kensuke Kojima, [Kohei Suenaga](http://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/), [Kengo Kido](http://www-mmm.is.s.u-tokyo.ac.jp/~kkido/) and [Ichiro Hasuo](http://group-mmm.org/~ichiro). Sharper and Simpler Nonlinear Interpolants for Program Verification |
