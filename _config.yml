@@ -12,6 +12,8 @@ nav:
   url: call.html
 - title: Program
   url: program.html
+- title: Proceedings
+  url: https://link.springer.com/book/10.1007/978-3-319-71237-6
 - title: SRC
   url: SRC.html
 - title: Posters
@@ -24,5 +26,3 @@ nav:
   url: local.html
 - title: Travel
   url: travel.html
-
-
