@@ -31,22 +31,26 @@ The top three winners will receive prizes of $500, $200, and $200, respectively,
 [Yu Zhang](http://staff.ustc.edy.cn/~yuzhang)
 
 ### APLAS Student Research Competition Committee:
-Bor-Yuh Evan Chang,	University of Colorado Boulder
-Sumit Gulwani,	Microsoft Research
-Atsushi Igarashi,	Kyoto University
-Kazunori Ueda,	Waseda University
-Yu Zhang, University of Science and Technology of China
+- Bor-Yuh Evan Chang,	University of Colorado Boulder
+- Sumit Gulwani,	Microsoft Research
+- Atsushi Igarashi,	Kyoto University
+- Kazunori Ueda,	Waseda University
+- Yu Zhang, University of Science and Technology of China
 
 ## Winners
 ### First Place:
 Manjeet Dahiya, Indian Institute of Technology Delhi, India
+
 **Title of Submission**: Automatic Verification of Intermittent Systems
 
 ### Second Two Places:
 Chunhui He, University of Science and Technology of China
+
 **Title of Submission**: POMP: Protocol Oblivious SDN Programming with Automatic Multi-Table Pipelining
 
+
 Chunmiao Li, Shanghai Jiao Tong University
+
 **Title of Submission**: Collaborative Development Environment: Fusing Human Insights into Automated Program Repair
 
 ## Contact
