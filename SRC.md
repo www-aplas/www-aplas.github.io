@@ -53,5 +53,11 @@ Chunmiao Li, Shanghai Jiao Tong University
 
 **Title of Submission**: Collaborative Development Environment: Fusing Human Insights into Automated Program Repair
 
+
+<img src="img/IMG_4920.jpg" width="600">
+Left to right: Xinyu Feng, Evan Chang, Chunhui He, Chunmiao Li, and Manjeet Dahiya.
+
+Photo taken by Prof. Zhenjiang Hu.
+
 ## Contact
 Poster chair: Yu Zhang (yuzhang AT ustc.edu.cn)
