@@ -55,6 +55,7 @@ Chunmiao Li, Shanghai Jiao Tong University
 
 
 <img src="img/IMG_4920.jpg" width="600">
+
 Left to right: Xinyu Feng, Evan Chang, Chunhui He, Chunmiao Li, and Manjeet Dahiya.
 
 Photo taken by Zhenjiang Hu.
