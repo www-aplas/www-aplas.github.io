@@ -2,6 +2,12 @@
 
 Every good time has to come to an end. We assume most people have to leave by shuttle bus (either to Hongqiao Airport or Pudong International Airport). If you have to arrive at the airport very early(before nearly 7:35 for Hongqiao and 8:35 for Pudong) or very late (after nearly 19:40 for Hongqiao and 20:40 for Pudong), the most sensible ways seems to take a taxi to Suzhou Railway Station, and then from there take the high-speed train to Shanghai, which runs from 5:27 to 22:43, and take also a taxi to your airport. Or go the whole way to the airport by taxi. Note that not every taxi driver is willing to make this long-distance trip (although many of them are happy to do so). Also in this case they may not use the meter to calculate the price. Instead, you have to negotiate the price (around 600 RMB or 100$) with them before leaving.
 
+## By taxi
+If you need to take a taxi to the airport directly, the following information may be useful:
+
+- To Hongqiao Airport Terminal 1: Show [this map](dephoto/hongqiao1.pdf) to the driver, and it will cost around 600 RMB and take around 90min.
+- To Hongqiao Airport Terminal 2: Show [this map](dephoto/hongqiao2.pdf) to the driver, and it will cost around 600 RMB and take around 90min.
+- To Pudong International Airport: Show [this map](dephoto/pudong.pdf) to the driver, and it will cost around 800 RMB and take around 120min.
 
 ## By Airport Shuttle Bus
 
@@ -40,7 +46,6 @@ The whole journey will take you around 90min to Hongqiao and around 150min to Pu
 If you want to reach Terminal 1 of Hongqiao Airport, however, you should refer to the later chapter describing how to reach Terminal 1 from Hongqiao Railway Station, which is near the bus stop at Hongqiao Airport. 
 
 
-
 ## By train
 If you plan to take this method, we suggest you to check out at least 8 hours before your flight.
 
@@ -55,27 +60,27 @@ There are essentially two options travel from Hongqiao Railway Station to Hongqi
 
 From Hongqiao Railway Station to Hongqiao Airport Terminal 1:
 
-- Take taxi. It will cost around 30RMB and take about 30min. Use [this map](dephoto/hongqiao1.pdf).
+- Take taxi. It will cost around 30RMB and take about 30min. Use [this map](dephoto/hq1.pdf).
 - Take Metro Line 10 to Hongqiao Airport Terminal 1. The whole journey takes around 20min.
 
 From Hongqiao Railway Station to Pudong International Airport:
 
-- Take taxi. It will cost around 250RMB and take about 80min. Use [this map](dephoto/pudong.pdf).
+- Take taxi. It will cost around 250RMB and take about 80min. Use [this map](dephoto/pd.pdf).
 - Take Metro Line 2 to Pudong International Airport. The whole journey takes around 110min.
 - Take Metro Line 2 to Long Yang Road and then take maglev to the airport. This method may cost 56 RMB and take around 90min.
 
 From Shanghai Railway Station to Hongqiao Airport Terminal 2:
 
-- Take taxi. It will cost around 60 RMB and take about 55min. Use [this map](dephoto/hongqiao2.pdf).
+- Take taxi. It will cost around 60 RMB and take about 55min. Use [this map](dephoto/hq2.pdf).
 - Take Metro Line 1 to People's Square and then take Metro Line 2 to Hongqiao Airport Terminal 2. The whole journey takes around 50min. 
 
 From Shanghai Railway Station to Hongqiao Airport Terminal 1:
 
-- Take taxi. It will cost around 60 RMB and take about 45min. Use [this map](dephoto/hongqiao1.pdf).
+- Take taxi. It will cost around 60 RMB and take about 45min. Use [this map](dephoto/hq1.pdf).
 - Take Metro Line 1 to South Shaanxi Road and then take Metro Line 10 to Hongqiao Airport Terminal 1. The whole journey takes around 60min.
 
 From Shanghai Railway Station to Pudong International Airport:
 
-- Take taxi. It will cost around 200RMB and take about 70min. Use [this map](dephoto/pudong.pdf).
+- Take taxi. It will cost around 200RMB and take about 70min. Use [this map](dephoto/pd.pdf).
 - Take Metro Line 1 to People's Square and then take Metro Line 2 to Pudong International Airport. The whole journey takes around 80min.
 - Take Metro Line 1 to People's Square, then switch to Metro Line 2 to Long Yang Road and then take maglev to the airport. This method may cost 54 RMB and take around 70min.

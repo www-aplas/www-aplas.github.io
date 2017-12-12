@@ -1,4 +1,5 @@
 ### NEWS
+- <span style="color:red;">&lt;11/23/2017&gt;</span> <br> Proceedings are now accessible to participants for four weeks.
 - <span style="color:red;">&lt;11/08/2017&gt;</span> <br> [Program](program.html) posted.
 - <span style="color:red;">&lt;09/23/2017&gt;</span> <br> [Accepted posters](accepted-posters.html) posted.
 - <span style="color:red;">&lt;09/08/2017&gt;</span> <br> Deadline for [poster](posters.html) (and [SRC](SRC.html)) submission extended.
