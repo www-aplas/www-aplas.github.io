@@ -34,7 +34,6 @@
 *13:30 - 14:30 Software Design*
 
 -  Learning to Synthesize [(slides)](/YingfeiXiong-Learning-to-Synthesize.pdf)<br>
-
   Yingfei Xiong
 
 -  Wyvern - Security by Design [(slides)](wyvern-overview.pptx)<br>
